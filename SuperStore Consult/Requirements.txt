@@ -1,0 +1,18 @@
+Expected Requirements:
+
+Part 1: Profits & Losses
+Identify the two biggest profit and loss centers using a visualization (pairs of dimensions).
+Identify products to stop selling with a visualization.
+Identify 3 product subcategories to focus on and 3 to stop selling.
+
+Part 2: Advertising
+Identify the 3 best state-month combinations for advertising based on average profit.
+Determine a maximum advertising budget for each state-month based on return on ad spend (1/5 of profits).
+
+Part 3: Returned Items
+Identify products with the highest return rate using a visualization.
+Identify customers with the highest return rate using a visualization.
+Analyze average profit vs. average return rate for a chosen dimension.
+Present a visual argument for continuing or stopping business based on this analysis.
+
+Part 4: Submission
