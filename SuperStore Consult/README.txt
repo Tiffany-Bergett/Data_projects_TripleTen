@@ -6,41 +6,35 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/0fcb54b436d
 Tableau Public Share Link: https://public.tableau.com/views/2023_11_19_Project4_TB/ProfitLossCenters?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 ### Data
-- The data was one Google spreadsheet file provided by TripleTen
-- ` nyc_airbnb_data.csv`: each row corresponds to one listing on AirBnB in September 2022
-    - `'data_dictionary`: summary of field titles seen in file and it's data type
-    - `'listings'`: uniquely listings available with all available data
-    - `'calendar'`: listings with upcoming availabilities and date type data
+- The data was one Excel spreadsheet file provided by TripleTen
+- ` Superstore.xls`: each row corresponds to one product sold; sheets were LEFT JOIN'd
+    - `'orders`: details all fields for each ordered item
+    - `'returns'`: details all fields for each returned item
 
 ### Description:
-- 17 page spreadsheet
-- Includes raw data (Hidden), processed data, data analysis, pivot tables, and a bar chart.
-- Purpose was to determine what types of properties should be targeted for the vacation rental market, in the Manhattan borough of New York City based on available AirBnB data.
+- 7 page Tableau Visulization
+- Includes data analysis, charts, and dashboard.
+- Purpose was to consultant company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
 
 ### Assumptions:
-- Airbnb rentals are equivalent to the general vacation rental statistics.	
-- Rental activity is assumed through the number of reviews in the last 12 months.	
-- Properties with no reviews in the last 12 months were considered inactive	
-- Super luxury listings with prices greater than $1,956.00 were filtered from the analysis, 1% outlier	
-- Extremely low-priced listings of less than $82 were filtered from the analysis, 1% outlier	
-- Superhosts properties reflect prices of properties the investor will purchase	
+- Profits from sales are totaling in the negative.	
+- There is one or more causes for negative profits directly related to orders and returns.
+- Operations department will need to make changes.
+- Advertising department needs recommendations.
 
 ### Process:
-I first explored, filtered, and cleaned the data.
-Then I created aggregations and pivot tables to determine the type of properties that should be targeted.
-I performed calculations, pivot tables and charts to determine occupancy and estimated revenue.
-I went a step further and chose to do an optional analysis to determine what attributes are important for a vacation rental.
-Lastly I finalized formatting for the client's readability.
+I first joined sheets.
+Then I determined profit and loss centers.
+Lastly I examined the contribution returns had on profits.
 
 ### Findings:
-1. The top 10 attractive neighborhoods for vacation rentals are as follows: Hell's Kitchen, Lower East Side, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Nolita.			
-2. The most popular vacation rental size is 1 bedroom overall. Lower East Side has the largest 1 bedroom demand. 2 bedrooms in Hell's Kitchen and Studio’s in Midtown are also desirable.			
-3. Saturday's have the highest occupancy rate out of the week.			
-4. Estimated revenue for similar properties to recommendations is $79,945.70.			
-5. Superhosts can charge higher prices, statistically significant.			
-6. Instant bookings do have higher occupancy rates, statistically significant.			
-7. Building with doormen get better reviews, statistically significant.			
-8. Hosts can charge higher prices for higher review ratings.
+1. Specific sub-categories were thriving or failing in different regions.
+2. Some products have a negative profit and should be discontinued.
+3. There are some sub-categories that are negative profit and should be discontinued.
+4. There are some sub-categories that are high-profit and should get more focus.
+5. The best advertising regions have different optimal time periods and budgets.
+6. There are several products that have a return rate of 100% and hsould be discontinued.
+7. High-returns investigated to prevent future problems.
 
-Notes for Reviewer:
+### Notes left for Reviewer:
 	I hid some sheets that I used for my Dashboard titled “Advertising” as I did not want the client to look at them individually. This one dashboard answers the only question in part 2, as it has multiple answers and I felt this was the best way to visualize that.
