@@ -1,0 +1,37 @@
+Expected Requirements:
+
+Part 1: Explore and filter the data
+Review each sheet in the spreadsheet and identify useful information and potential cleaning challenges.
+Document data cleaning steps for tracking revisions and updates.
+Organize the spreadsheet by freezing rows and columns, resizing widths, wrapping text, and adding filters.
+Filter listings based on minimum night requirement (7 days or fewer), reviews in the last 12 months, and active status.
+
+Part 2: Determine properties that should be targeted
+Analyze the data to determine the top 10 most popular neighborhoods for vacation rentals based on reviews in the last 12 months.
+Clean the neighborhood data by standardizing capitalization and removing trailing spaces.
+Determine the most popular property size (number of bedrooms) for vacation rentals.
+Analyze different neighborhoods to identify preferences for specific property sizes.
+Recommend optimal property size for each of the top 10 neighborhoods.
+
+Part 3: Calculate occupancy
+Clean the calendar data.
+Create an aggregation for day of the week.
+Calculate the average occupancy rate for each listing.
+Analyze which days of the week have the highest occupancy rates.
+
+Part 4: Estimate revenue for similar investment property
+Filter listings based on previously recommended criteria.
+Calculate the average price and occupancy rate for selected criteria.
+Estimate annual revenue based on average price and occupancy rate.
+Document assumptions used in the revenue calculation.
+
+Part 5: (Optional) Determine what additional attributes are important for a vacation rental
+Analyze the relationship between superhost status and average price.
+Analyze the relationship between instant booking and occupancy rates.
+Analyze the impact of building staff (doormen) on review scores for check-in.
+Explore the relationship between review rating and price.
+
+Part 6: Documentation and spreadsheet formatting
+Create an Executive Summary and Table of Contents.
+Document all assumptions used in the analysis.
+Format the spreadsheet for clarity and readability.
