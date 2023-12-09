@@ -1,0 +1,23 @@
+Expected Requirements:
+
+Part 1: Conversion Funnel
+Create a pivot table analyze user interaction stages.
+Include 3 stages in the funnel.
+Count unique users for each stage.
+Calculate total conversion rates and conversion rates to the next step.
+
+Part 2: Cohort Analysis Data Preparation
+Filter Purchases
+Calculate First Purchase Dates
+Set Up Monthly Data for Cohorts
+
+Part 3: Calculate Retention Rates
+Group Data into Cohorts
+Calculate Overall Retention Rates
+
+Part 4: Organize and Document Spreadsheet
+Update Executive Summary
+Fill in the results and analysis sections
+Reorder Sheets
+Update Sheet Formatting
+Project Submission
