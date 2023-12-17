@@ -34,7 +34,7 @@ Lastly I examined the contribution returns had on profits.
 4. There are some sub-categories that are high-profit and should get more focus.
 5. The best advertising regions have different optimal time periods and budgets.
 6. There are several products that have a return rate of 100% and hsould be discontinued.
-7. High-returns investigated to prevent future problems.
+7. The High-returns need to be investigated to prevent future problems.
 
 ### Notes left for Reviewer:
 	I hid some sheets that I used for my Dashboard titled “Advertising” as I did not want the client to look at them individually. This one dashboard answers the only question in part 2, as it has multiple answers and I felt this was the best way to visualize that.
