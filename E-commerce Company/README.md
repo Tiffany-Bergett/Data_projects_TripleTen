@@ -6,7 +6,7 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/a85a12db468
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Data
-- The data was one Google spreadsheet file provided by TripleTen
+The data was one Google spreadsheet file provided by TripleTen
 - `'Business Analyst Project.csv'`: raw transaction logs
     - `'raw_user_activity'`: Each row represents an activity, or event, by a user on the company’s website
         - `'user_id'`: unique customer IDs
