@@ -1,20 +1,18 @@
 Expected Requirements:
 
-Create 3 Power BI pages with specific visuals:
+Part 1: Profits & Losses
+Identify the two biggest profit and loss centers using a visualization (pairs of dimensions).
+Identify products to stop selling with a visualization.
+Identify 3 product subcategories to focus on and 3 to stop selling.
 
-Visual 1: App Landscape
-- Total unique apps (KPI Card)
-- Review count over time (Line Chart)
-- Reviews_count vs. average rating (Scatterplot with interpretation)
+Part 2: Advertising
+Identify the 3 best state-month combinations for advertising based on average profit.
+Determine a maximum advertising budget for each state-month based on return on ad spend (1/5 of profits).
 
-Visual 2: Reviews
-- Average of weighted helpful reviews (Card)
-- Average rating vs. developer response (Scatterplot)
-
-Visual 3: App Reviews
-- Create relationship between Apps and Reviews tables
-- Developer vs. sum of rating (Bar Chart)
-- Developer vs. average helpful review (Bar Chart)
-- Developer responsiveness (Bar Chart, filtered for apps with 500+ reviews)
+Part 3: Returned Items
+Identify products with the highest return rate using a visualization.
+Identify customers with the highest return rate using a visualization.
+Analyze average profit vs. average return rate for a chosen dimension.
+Present a visual argument for continuing or stopping business based on this analysis.
 
 Part 4: Submission
