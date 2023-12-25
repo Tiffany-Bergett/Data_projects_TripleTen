@@ -5,11 +5,12 @@ This was my 6th project that I worked on in the TripleTen Business Intelligence 
 Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
 
 ### Data
-- The excel file provided by TripleTenwas was public data scraped from the Shopify App Store. It includes 7 tables: 
-    - ` apps`: Details of the apps on Shopify apps marketplace
-    - `apps_categories`: Join tables to connect apps with categories
-    - `categories`: Categories of the apps. Each app has multiple categories
-    - `reviews`: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present.
+The excel file provided by TripleTenwas was public data scraped from the Shopify App Store.
+- `'shopify.xlsx'`: Excel Workbook containing 4 sheets:
+    - `'apps'`: Details of the apps on Shopify apps marketplace
+    - `'apps_categories'`: Join tables to connect apps with categories
+    - `'categories'`: Categories of the apps. Each app has multiple categories
+    - `'reviews'`: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present.
 
 ### Description:
 - 3 page Power BI Dashboard
