@@ -6,9 +6,9 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/74d93fb0067
 Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_12_03_Project5_TB/TotalSalesvsReturns?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
 ### Data
-- The data was one Excel spreadsheet file provided by TripleTen
-- ` Superstore.xls`: each row corresponds to one product sold; sheets were LEFT JOIN'd
-    - `'orders`: details all fields for each ordered item
+The data was one Excel spreadsheet file provided by TripleTen:
+- `'Superstore.xls'`: each row corresponds to one product sold; sheets were LEFT JOIN'd
+    - `'orders'`: details all fields for each ordered item
     - `'returns'`: details all fields for each returned item
 
 ### Description:
