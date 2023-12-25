@@ -7,8 +7,8 @@ Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1
 
 ### Data
 - The data was one Google spreadsheet file provided by TripleTen
-- ` nyc_airbnb_data.csv`: each row corresponds to one listing on AirBnB in September 2022
-    - `'data_dictionary`: summary of field titles seen in file and it's data type
+- `'nyc_airbnb_data.csv'`: each row corresponds to one listing on AirBnB in September 2022
+    - `'data_dictionary'`: summary of field titles seen in file and it's data type
     - `'listings'`: uniquely listings available with all available data
     - `'calendar'`: listings with upcoming availabilities and date type data
 
