@@ -6,7 +6,7 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/ce9c49cdaee
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Data
-- The data was one Google spreadsheet file provided by TripleTen
+The data was one Google spreadsheet file provided by TripleTen:
 - `'nyc_airbnb_data.csv'`: each row corresponds to one listing on AirBnB in September 2022
     - `'data_dictionary'`: summary of field titles seen in file and it's data type
     - `'listings'`: uniquely listings available with all available data
