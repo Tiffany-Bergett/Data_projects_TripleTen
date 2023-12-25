@@ -1,0 +1,45 @@
+Expected Requirements for Zomato Onboarding Project:
+
+Choose one analysis type:
+1. Customer Analysis Segmentation:
+  Understand Zomato customers (demographics, behavior, etc.)
+  Segment customers based on relevant factors
+  Analyze purchasing behavior for each segment
+2. Restaurant Analysis:
+  Identify popular restaurants
+  Determine highest revenue generators
+  Explore reasons for success/performance
+3. Sales Analysis:
+  Analyze sales/revenue trends over time
+  Identify key performance indicators (KPIs)
+  Investigate changes in sales distribution
+
+Use provided data tables:
+  food
+  menu
+  orders
+  restaurant
+  users
+
+Develop a research plan addressing:
+  Research questions for your chosen analysis type
+  Metrics/parameters to investigate
+  Hypotheses to test
+  Visualizations to use
+  Data preparation steps
+
+Create a dashboard:
+  Relevant to your chosen analysis area
+  Uses Tableau Public or Power BI
+  Tells a story through its visualizations
+
+Write a report:
+  Summarizes findings from data analysis and dashboard creation
+  Presents conclusions and recommendations for Zomato
+  Uses a flexible format (document, PDF with graphs, presentation)
+
+Submit Decomposition plan, Final dashboard and Report to team leader for approval 
+
+Remember:
+Communicate with your team leader throughout the process in a professional manner
+Discuss any changes to your plan
