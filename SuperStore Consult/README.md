@@ -6,7 +6,7 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/0fcb54b436d
 Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_11_19_Project4_TB/ProfitLossCenters?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
 ### Data
-- The data was one Excel spreadsheet file provided by TripleTen
+The data was one Excel spreadsheet file provided by TripleTen:
 - `'Superstore.xls'`: each row corresponds to one product sold; sheets were LEFT JOIN'd
     - `'orders'`: details all fields for each ordered item
     - `'returns'`: details all fields for each returned item
