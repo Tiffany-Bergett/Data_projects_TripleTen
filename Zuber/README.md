@@ -5,7 +5,7 @@ This was my second project I worked on in the TripleTen Business Intelligence An
 Loom Video Screencast can be found <a href='https://www.loom.com/share/c52200c4a60f4bb89bee18ccfaee4c34?sid=f7aa58e5-1c9b-489b-a4c3-4ce111b59b9d' target=_blank><u>here</u>.</a>
 
 ### Data
-- A database with info on taxi rides in Chicago provided by TripleTen.
+A database with info on taxi rides in Chicago provided by TripleTen:
 - `'neighborhoods'` table: data on city neighborhoods
     - `'name'`: name of the neighborhood
     - `'neighborhood_id'`: neighborhood code
