@@ -6,11 +6,11 @@ Loom Video Overview can be found <a href='HERE' target=_blank><u>here</u>.</a>
 
 ### Data
 TripleTen provided an archived file of 5 seperate excel files from the mock company Zomato
-    - `food`: HERE
-    - `menu`: HERE
-    - `orders`: HERE
-    - `restaurant`: HERE
-    - `users`: HERE
+- `'Zomato data.zip'`: Compressed exel files provided by team lead
+    - `'menu'`: HERE
+    - `'orders'`: HERE
+    - `'restaurant'`: HERE
+    - `'users'`: HERE
 
 ### Description:
 - PAGE AND SOFTWARE
