@@ -23,6 +23,12 @@ Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1
 - Includes raw data (Hidden), processed data, data analysis, and pivot tables.
 - Purpose was to analyze the companys' raw transaction logs and turn the event logs into business metrics.
 
+### Assumptions:
+- The "raw_user_activity" sheet accurately reflects all website activity for the relevant timeframe.
+- Missing values or inconsistencies in the data are minimal and can be ignored.
+- The provided data format (columns, data types) is correct and consistent.
+
+
 ### Process:
 I first explored, filtered, and cleaned the data.
 Then I created built a conversion funnel.
