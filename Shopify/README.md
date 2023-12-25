@@ -17,12 +17,20 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/ce9c49cdaee
 - Purpose was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figure out what key factors play into the success of a Shopify app.
 
 ### Assumptions:
-- INSERT HERE
+- The scraped data from Shopify websites is accurate and representative of the actual app landscape.
+- The data in the shopify.xlsx file is complete and consistent, with minimal missing values or inconsistencies.
+- The provided column names and data types in the tables accurately reflect their content.
 
 ### Process:
-I first INSERT
-Then INSERT
-Lastly INSERT
+I first assessed the app store landscape using KPI cards and charts.
+Then I cataloged review data with cards and charts.
+Lastly I analyzed app developers across review types.
 
 ### Findings:
-1. INSERT		
+1. New Apps are more likely to be rated early in their deployment.
+2. Most apps are rated favorably.
+3. Reviews are higher for an app if a developer answered the review.
+4. Reviews that have been voted as helpful have a weighted average of 5.48.
+5. The app developer "Elfsight" has the highest combined ratings at 135.10 stars.
+6. The app developer "Pictorem" has the highest average helpful reviews at 50.
+7. The app developer "FireaApps" has responded to the highest amount of reviews at at 6,008 responses.
