@@ -7,8 +7,8 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_11_19_
 
 ### Data
 - The data was one Excel spreadsheet file provided by TripleTen
-- ` Superstore.xls`: each row corresponds to one product sold; sheets were LEFT JOIN'd
-    - `'orders`: details all fields for each ordered item
+- `'Superstore.xls'`: each row corresponds to one product sold; sheets were LEFT JOIN'd
+    - `'orders'`: details all fields for each ordered item
     - `'returns'`: details all fields for each returned item
 
 ### Description:
