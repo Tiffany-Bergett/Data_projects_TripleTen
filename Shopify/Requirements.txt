@@ -1,0 +1,20 @@
+Expected Requirements:
+
+Create 3 Power BI pages with specific visuals:
+
+Visual 1: App Landscape
+- Total unique apps (KPI Card)
+- Review count over time (Line Chart)
+- Reviews_count vs. average rating (Scatterplot with interpretation)
+
+Visual 2: Reviews
+- Average of weighted helpful reviews (Card)
+- Average rating vs. developer response (Scatterplot)
+
+Visual 3: App Reviews
+- Create relationship between Apps and Reviews tables
+- Developer vs. sum of rating (Bar Chart)
+- Developer vs. average helpful review (Bar Chart)
+- Developer responsiveness (Bar Chart, filtered for apps with 500+ reviews)
+
+Part 4: Submission
