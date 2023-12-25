@@ -9,26 +9,7 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_11_19_
 - The data was one Excel spreadsheet file provided by TripleTen
 - `'Superstore.xls'`: each row corresponds to one product sold; sheets were LEFT JOIN'd
     - `'orders'`: details all fields for each ordered item
-	- `'category'`
-   	- `'city'`
-   	- `'country/region'`
-   	- `'customer ID'`
-   	- `'customer name'`
-   	- `'order date'`
-   	- `'order ID'`
-   	- `'postal code'`
-   	- `'product ID'`
-   	- `'product name'`
-   	- `'region'`
-   	- `'row ID'`
-   	- `'segment'`
-   	- `'ship date'`
-   	- `'ship mode'`
-   	- `'state'`
-   	- `'sub-category'`
     - `'returns'`: details all fields for each returned item
-	- `'order ID'`
-   	- `'returned'`
 
 ### Description:
 - 7 page Tableau Visulization
