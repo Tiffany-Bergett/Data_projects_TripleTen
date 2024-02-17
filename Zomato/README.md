@@ -2,7 +2,7 @@
 
 This was my Final project for the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned throughout the TripleTen Program.
 
-Loom Video Overview can be found <a href='HERE' target=_blank><u>here</u>. </a>PDF of PBXI file can be found <a href='https://drive.google.com/file/d/1_ynGzWjmB5WdsHw0KTVR6Y7i6xtBXMFv/view?usp=sharing' target=_blank><u>here</u>.</a>
+Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77' target=_blank><u>here</u>. </a>PDF of PBXI file can be found <a href='https://drive.google.com/file/d/1_ynGzWjmB5WdsHw0KTVR6Y7i6xtBXMFv/view?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Data
 TripleTen provided an archived file of 5 seperate excel files from the mock company Zomato. I used 2 for this project.
