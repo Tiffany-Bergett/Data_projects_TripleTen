@@ -2,7 +2,7 @@
 
 This was my second project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in SQL.
 
-Loom Video Screencast can be found <a href='https://www.loom.com/share/c52200c4a60f4bb89bee18ccfaee4c34?sid=f7aa58e5-1c9b-489b-a4c3-4ce111b59b9d' target=_blank><u>here</u>.</a>
+Loom Video Screencast and overview can be found <a href='https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c' target=_blank><u>here</u>.</a>
 
 ### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
