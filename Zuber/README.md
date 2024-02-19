@@ -11,6 +11,14 @@ Loom Video Screencast and overview can be found <a href='https://www.loom.com/sh
 | 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 3 | [Table Scheme.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Table%20Scheme.png) | A .png file showing the relationships between tables used in this project. |
 
+| Section Title | Description |
+| ----------- |----------- |
+| DATA | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final products purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Process | A general outline of how this project formed from start to finish. |
+| Findings | Insights learned from the data analysis. |
+
 ### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
 - `'neighborhoods'` table: data on city neighborhoods
