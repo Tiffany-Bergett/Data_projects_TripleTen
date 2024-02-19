@@ -7,8 +7,11 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 1 | [Raw Data for CSA](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato/Raw%20Data%20for%20CSA) | Folder containing 2 .xlxs files, one for each table used in the analysis. |
+| 2 | [Final Project Report.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Final%20Project%20Report.pdf) | A .pdf file with with the written report for this project. |
+| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 5 | [Zomato.TB.pbix](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Zomato.TB.pbix) | Power BI save file for easy access to specific DAX, calculations, and measures. |
 
 | Section Title | Description |
 | ----------- |----------- |
