@@ -5,6 +5,22 @@ This was my third project that I worked on in the TripleTen Business Intelligenc
 Loom Video Overview can be found <a href='https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=0332f23c-bff4-4451-ab6b-8e20544076bd' target=_blank><u>here</u>.</a>
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
+### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | [Business Analytics Project.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Business%20Analytics%20Project.csv) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [ReviewerGrade3.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/ReviewerGrade3.png) | This is the comments left by my project reviewer, number corresponds with project number. |
+
+| Section Title | Description |
+| ----------- |----------- |
+| DATA | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final products purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Process | A general outline of how this project formed from start to finish. |
+| Findings | Insights learned from the data analysis. |
+
 ### Data
 The data was one Google spreadsheet file provided by TripleTen
 - `'Business Analyst Project.csv'`: raw transaction logs
@@ -27,7 +43,6 @@ The data was one Google spreadsheet file provided by TripleTen
 - The "raw_user_activity" sheet accurately reflects all website activity for the relevant timeframe.
 - Missing values or inconsistencies in the data are minimal and can be ignored.
 - The provided data format (columns, data types) is correct and consistent.
-
 
 ### Process:
 I first explored, filtered, and cleaned the data.
