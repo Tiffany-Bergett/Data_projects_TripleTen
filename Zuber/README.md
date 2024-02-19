@@ -4,6 +4,7 @@ This was my second project I worked on in the TripleTen Business Intelligence An
 
 Loom Video Screencast and overview can be found <a href='https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c' target=_blank><u>here</u>.</a>
 
+###Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Requirements | This current page with all relevant information about the project, just past the Table of contents. |
