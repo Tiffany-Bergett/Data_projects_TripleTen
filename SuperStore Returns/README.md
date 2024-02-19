@@ -5,6 +5,23 @@ This was my fifth project that I worked on in the TripleTen Business Intelligenc
 Loom Video Overview can be found <a href='https://www.loom.com/share/74d93fb0067c4649b51ceb65fc0f221c?sid=57e2a8a3-db62-4f12-af46-50030f1b1dd2' target=_blank><u>here</u>.</a>
 Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_12_03_Project5_TB/TotalSalesvsReturns?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
+### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | [DataSet - SuperStore.xls](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/DataSet%20-%20SuperStore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Reviewer Grade.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Reviewer%20Grade.png) | This is the comments left by my project reviewer. |
+
+| Section Title | Description |
+| ----------- |----------- |
+| DATA | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final products purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Process | A general outline of how this project formed from start to finish. |
+| Findings | Insights learned from the data analysis. |
+| Notes | Notes sent with project to the reviewer for more context about presentation choices. |
+
 ### Data
 The data was one Excel spreadsheet file provided by TripleTen:
 - `'Superstore.xls'`: each row corresponds to one product sold; sheets were LEFT JOIN'd
