@@ -7,7 +7,7 @@ Projects Google Speadsheet can be found <a href='https://docs.google.com/spreads
 
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Requirements | This current page with all relevant information about the project, just past the Table of contents. |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 3 | [ReviewerGrade1](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/ReviewerGrade1.png) | This is the comments left by my project reviewer. |
 | 4 | [nyc_airbnb_data.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/nyc_airbnb_data.csv) | The original data file provided by TripleTen that was used in this projects analysis. |
