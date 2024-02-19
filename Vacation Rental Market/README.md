@@ -1,9 +1,16 @@
-# File Title: nyc.airbnb,data_v1.3.29_2023.10.21
+# File Title: nyc.airbnb.data_v1.3.29_2023.10.21
 
 This was my first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Advanced Spreadsheets.
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/ce9c49cdaee940119543cc38f0d34c09?sid=d68d5288-388a-472f-b182-8ce23b8cb7ec' target=_blank><u>here</u>.</a>
-Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing' target=_blank><u>here</u>.</a>
+Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing' target=_blank><u>here</u>.</a>
+
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | Requirements | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [ReviewerGrade1](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/ReviewerGrade1.png) | This is the comments left by my project reviewer. |
+| 4 | [nyc_airbnb_data.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/nyc_airbnb_data.csv) | The original data file provided by TripleTen that was used in this projects analysis. |
 
 ### Data
 The data was one Google spreadsheet file provided by TripleTen:
