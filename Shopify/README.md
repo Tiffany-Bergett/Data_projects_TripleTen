@@ -4,6 +4,20 @@ This was my 6th project that I worked on in the TripleTen Business Intelligence 
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
 
+### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
+| Section Title | Description |
+| ----------- |----------- |
+| DATA | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final products purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Process | A general outline of how this project formed from start to finish. |
+| Findings | Insights learned from the data analysis. |
+
 ### Data
 The excel file provided by TripleTenwas was public data scraped from the Shopify App Store.
 - `'shopify.xlsx'`: Excel Workbook containing 4 sheets:
