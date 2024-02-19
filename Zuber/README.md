@@ -4,6 +4,12 @@ This was my second project I worked on in the TripleTen Business Intelligence An
 
 Loom Video Screencast and overview can be found <a href='https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c' target=_blank><u>here</u>.</a>
 
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | Requirements | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Table Scheme](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Table%20Scheme.png) | A .png file showing the relationships between tables used in this project. |
+
 ### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
 - `'neighborhoods'` table: data on city neighborhoods
