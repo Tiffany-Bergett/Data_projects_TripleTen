@@ -4,6 +4,20 @@ This was my Final project for the TripleTen Business Intelligence Analytics Prog
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77' target=_blank><u>here</u>. </a>PDF of PBXI file can be found <a href='https://drive.google.com/file/d/1_ynGzWjmB5WdsHw0KTVR6Y7i6xtBXMFv/view?usp=sharing' target=_blank><u>here</u>.</a>
 
+### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
+| Section Title | Description |
+| ----------- |----------- |
+| DATA | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final products purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Process | A general outline of how this project formed from start to finish. |
+| Findings | Insights learned from the data analysis. |
+
 ### Data
 TripleTen provided an archived file of 5 seperate excel files from the mock company Zomato. I used 2 for this project.
 - `'Zomato data.zip'`: Compressed exel files provided by team lead
