@@ -7,9 +7,9 @@ Loom Video Screencast and overview can be found <a href='https://www.loom.com/sh
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Requirements | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 3 | [Table Scheme](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Table%20Scheme.png) | A .png file showing the relationships between tables used in this project. |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Table Scheme.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Table%20Scheme.png) | A .png file showing the relationships between tables used in this project. |
 
 ### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
