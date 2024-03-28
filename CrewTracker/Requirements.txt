@@ -1,0 +1,32 @@
+### Requirements Summary
+
+##Project Timeline:
+February 8th - March 18th (5 weeks @ 10 hours/week)
+
+##Team:
+-20 Data Analyst/Business Intelligence students & alumni
+-Management team of 3
+    #Sub-Teams:
+    -First Responder (5 members) - Extract data from Crystal Reports
+    -Power BI Team - Convert & consolidate reports, design dashboards
+    -Peer Reviewer - Review and validate Power BI reports
+    
+##Responsibilities:
+1) First Responder (Streamline Data Management):
+-Use remote access to extract SQL queries, layouts, and formulas from Crystal Reports.
+-Catalog extracted data in ClickUp for project management.
+-Transfer data files securely to the Power BI team.
+
+2) Power BI Team (Optional for First Responders):
+-Consolidate pre-assigned Crystal Reports into interactive dashboards.
+-Design user-friendly functionalities for data sorting, filtering, and management.
+
+3) Peer Reviewer (Conduct Data Validation):
+-Review assigned Power BI reports for alignment with Crystal Report's original intention.
+-Compare converted data to source data and Power BI requirements.
+-Identify and report any inconsistencies or errors.
+
+##Additional Requirements:
+-Attend weekly meetings.
+-Demonstrate progress and address questions/issues.
+-Stay updated on group chat and assist peers as needed.
