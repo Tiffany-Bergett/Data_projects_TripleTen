@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
-<style>
-body {
-  font-size: 20px;
-}
-</style>
 <body>
 
 <span style='font-size:100px;'>&#128679;</span>
+<span style='font-size:100px;'>&#128679;</span>
+<span style='font-size:100px;'>&#128679;</span>
+<span style='font-size:100px;'>&#128679;</span>
+<span style='font-size:100px;'>&#128679;</span>
+<span style='font-size:100px;'>&#128679;</span>
+
 
 </body>
 </html> 
