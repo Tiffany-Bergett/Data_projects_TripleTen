@@ -25,10 +25,10 @@ Loom Video Overview can be found <a href='HERE' target=_blank><u>here</u>.</a>
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [File Name](LINKHERE) | Blah blah blah. |
-| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and CrewTracker. |
-| 4 | [File Name](LINKHERE) | Blah blah blah. |
+| 1 | [Call List Merge Report.PBIX](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Call%20List%20Merge%20Report.pbix) | My final project with the Externship, a merged Power BI Dashboard from 3 Crystal Reports. |
+| 2 | [Externship Cert.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Externship%20Cert.pdf) | Certificate of Proof for completion of the externship while meeting or exceeding requirments. |
+| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and CrewTracker. |
 
 | Section Title | Description |
 | ----------- |----------- |
