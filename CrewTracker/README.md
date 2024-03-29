@@ -20,7 +20,7 @@
 
 This was my Externship project that I worked on after graduating from TripleTen Business Intelligence Analytics Program. It was a team project designed help a real world company, CrewTracker Software, to modernize their reporting system by migrating over 170 Crystal Reports to interactive Power BI dashboards, improving data visualization and user experience for CrewTracker's clients.
 
-Loom Video Overview can be found <a href='HERE' target=_blank><u>here</u>.</a>
+Video Overview can be found <a href='https://drive.google.com/file/d/127-o2r_JCsCJwlNCtmzJsxAp8Ti1jIi3/view?usp=drive_link' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
