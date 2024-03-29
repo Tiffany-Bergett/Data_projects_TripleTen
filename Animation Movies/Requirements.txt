@@ -1,19 +1,19 @@
-#### March Code Pudding Project Requirements (March 2024)
+#### March Code Pudding Project Requirements (March 2024) ####
 
-### Goal:Craft a captivating story using provided datasets and impactful visualizations.
+### Goal: ### Craft a captivating story using provided datasets and impactful visualizations.
 
-### Challenge:#Collaborate with your team to create a data-driven visual story (96 hours).
+### Challenge: ### Collaborate with your team to create a data-driven visual story (96 hours).
 
-### Software: Tableau.
+### Software: ### Tableau.
 
-### Platform:#Present your creation on a live YouTube stream.
+### Platform: ### Present your creation on a live YouTube stream.
 
-## Key Requirements:
+## Key Requirements: ##
 Originality: Develop your own ideas, external libraries are okay (no copying projects).
 Submission: Share a link to your project with the designated person after completion.
 Scoring: Points awarded for data & visualization (20), storytelling (10), and presentation (20).
 
-# Crafting Your Story (10 points):
+# Crafting Your Story (10 points): #
 Focus: Build a narrative around the data you're given.
 Brainstorm: Discuss potential story ideas with your team.
 Refine: Select insights that support your chosen story arc.
@@ -22,7 +22,7 @@ Visualization: Integrate data visualizations seamlessly into the story.
 Clarity & Captivation: Ensure your story is easy to understand and engaging.
 Bonus: Consider adding hidden details to surprise and entertain your audience (optional).
 
-# Data Analysis (20 points):
+# Data Analysis (20 points): #
 Exploration: Choose a dataset and delve into its details (Exploratory Data Analysis - EDA).
 Preparation: Clean and prepare the data if needed (handling missing values, joining tables, etc.).
 Visualization: Create unique visualizations that effectively illustrate your story.
@@ -32,7 +32,7 @@ Introduction: Briefly introduce the data, project goals, and initial findings.
 Visualization Explanations: Explain each visualization, providing context and conclusions.
 Conclusion: Discuss potential areas for further exploration.
 
-# Presentation (20 points):
+# Presentation (20 points): #
 Content: Follow the suggested flow:
 Introduction: Introduce your team and provide a project overview.
 Main Part: Discuss the chosen dataset, project details, technical aspects, and any limitations encountered during analysis.
