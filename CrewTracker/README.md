@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<span style='font-size:100px;'>&#128679;</span>
-<span style='font-size:100px;'>&#128679;</span>
-<span style='font-size:100px;'>&#128679;</span>
-<span style='font-size:100px;'>&#128679;</span>
-<span style='font-size:100px;'>&#128679;</span>
-<span style='font-size:100px;'>&#128679;</span>
-
-
-</body>
-</html> 
-------------------------ReadMe Under Construction -----------------------------
-
-
-
 # File Title: Call List Merge Report.PBIX
 
 This was my Externship project that I worked on after graduating from TripleTen Business Intelligence Analytics Program. It was a team project designed help a real world company, CrewTracker Software, to modernize their reporting system by migrating over 170 Crystal Reports to interactive Power BI dashboards, improving data visualization and user experience for CrewTracker's clients.
