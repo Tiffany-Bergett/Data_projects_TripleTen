@@ -19,6 +19,7 @@ Loom Video Overview can be found <a href='HERE' target=_blank><u>here</u>.</a>
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
+| Results | List of accomplishments and skills practiced in this project. |
 
 ### Data
 The data was one .csv file provided by TripleTen
