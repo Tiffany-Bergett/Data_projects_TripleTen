@@ -2,7 +2,7 @@
 
 This was my Code Jam Competition project that I worked after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills.
 
-Loom Video Overview can be found <a href='HERE' target=_blank><u>here</u>.</a>
+YouTube LIVE recording can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=fNs4AeeffGvZo9k8' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
