@@ -3,6 +3,7 @@
 This was my Code Jam Competition project that I worked after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills.
 
 YouTube LIVE recording with host Q&A can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=fNs4AeeffGvZo9k8' target=_blank><u>here</u>.</a>
+
 Team Chart-cuteri's recorded presentation can be found <a href='https://drive.google.com/file/d/1hCgHvyS8QK4xuK0Vba_DeCW6dX-BBXlA/view?usp=drive_link' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
