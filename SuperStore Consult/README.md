@@ -2,6 +2,8 @@
 
 This was my fourth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Visualization.
 
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project4Pic.png" alt="First Visulization Sheet">](https://public.tableau.com/views/2023_11_19_Project4_TB/ProfitLossCenters?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 Loom Video Overview can be found <a href='https://www.loom.com/share/0fcb54b436d44a81af73c64152d5f46e?sid=8aed8f0f-c45b-490a-abc3-d7ebe04214f8' target=_blank><u>here</u>.</a>
 Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_11_19_Project4_TB/ProfitLossCenters?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
