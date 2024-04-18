@@ -2,6 +2,8 @@
 
 This was my Final project for the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned throughout the TripleTen Program.
 
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project7Pic.png" alt="First Dashboard">](https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77)
+
 Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77' target=_blank><u>here</u>. </a>
 
 ### Table of Contents
