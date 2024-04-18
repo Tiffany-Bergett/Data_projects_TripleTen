@@ -2,6 +2,8 @@
 
 This was my third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Business Analytics.
 
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project3Pic.png" alt="First Sheet of Project**">](https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing)
+
 Loom Video Overview can be found <a href='https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=0332f23c-bff4-4451-ab6b-8e20544076bd' target=_blank><u>here</u>.</a>
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
