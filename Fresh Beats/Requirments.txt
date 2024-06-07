@@ -1,0 +1,10 @@
+Report Requirements:
+
+- Use the provided report template and the provided spreadsheet analysis.
+- Include corresponding visuals from the dataset spreadsheet.
+- Choose key insights for each visualization.
+- Relate insights back to the business challenges.
+- Choose recommendations for each visualization.
+- Relate recommendations back to the business challenges.
+- Complete the Project Summary and Conclusion sections.
+- Maintain consistent text formatting.
