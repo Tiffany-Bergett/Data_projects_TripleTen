@@ -52,14 +52,14 @@ A Google Doc with a template for the project was provided. Blank Sections includ
 
 ### Findings:
 
-#User Engagement and Conversion:
+##User Engagement and Conversion:
 - Paid users are more engaged: They listen to more music and show better retention. Converting free users to paid subscribers is a key strategy.
 - Genre preferences differ: Rock is popular with free users, while Indie is popular with paid users. Tailoring recommendations based on user type can improve engagement.
 - 
-#Artist Promotion Effectiveness and Genre Promotion for Emerging Artists:
+##Artist Promotion Effectiveness and Genre Promotion for Emerging Artists:
 - Pop music is declining: Electronic and Hip-Hop are gaining traction. Fresh Beats should consider these trends when curating music and promoting artists.
 
-#Recommendations:
+##Recommendations:
 - Target new music trends: Run targeted marketing campaigns and expand the music library for Electronic and Hip-Hop.
 - Maximize User Engagement:
     - Paid User Conversion: Offer promotions and tiered subscriptions to convert free users.
