@@ -1,6 +1,6 @@
 # File Title: E-Commerce_Business_Analysis
 
-This was my third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Business Analytics.
+This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project3Pic.png" alt="First Sheet of Project**">](https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing)
 
@@ -10,7 +10,7 @@ Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Business Analytics Project.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Business%20Analytics%20Project.csv) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 1 | [Business Analytics Project.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Business%20Analytics%20Project.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 4 | [ReviewerGrade3.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/ReviewerGrade3.png) | This is the comments left by my project reviewer, number corresponds with project number. |
@@ -18,7 +18,7 @@ Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1
 | Section Title | Description |
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
-| Description | Describes the final products purpose, software, format, and included visuals. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
@@ -30,7 +30,7 @@ The data was one Google spreadsheet file provided by TripleTen
         - `'user_id'`: unique customer IDs
         - `'event_type'`: the type of activity by the user
         - `'category_code'`: category of the product being viewed or purchased
-        - `'brand'`: company that makes the product
+        - `'brand'`: the company that makes the product
         - `'price'`: price of the product, in USD
         - `'event_date'`: date of the user activity, in YYYY-MM-DD format
     - `'Table of Contents'`: Preformated yet empty table of contents sheet
@@ -39,7 +39,6 @@ The data was one Google spreadsheet file provided by TripleTen
 ### Description:
 - 8 page spreadsheet
 - Includes raw data (Hidden), processed data, data analysis, and pivot tables.
-- Purpose was to analyze the companys' raw transaction logs and turn the event logs into business metrics.
 
 ### Assumptions:
 - The "raw_user_activity" sheet accurately reflects all website activity for the relevant timeframe.
@@ -48,10 +47,10 @@ The data was one Google spreadsheet file provided by TripleTen
 
 ### Process:
 I first explored, filtered, and cleaned the data.
-Then I created built a conversion funnel.
+Then I created and built a conversion funnel.
 I prepared data for cohort analysis.
 Calculated retention rates.
-Lastly I finalized formatting and documentation for the client's readability.
+Lastly, I finalized formatting and documentation for the client's readability.
 
 ### Findings:
 | Results | Synopsis |
