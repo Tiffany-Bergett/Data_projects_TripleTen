@@ -34,7 +34,6 @@ The data was one Google spreadsheet file provided by TripleTen:
 ### Description:
 - 17 page spreadsheet
 - Includes raw data (Hidden), processed data, data analysis, pivot tables, and a bar chart.
-- Purpose was to determine what types of properties should be targeted for the vacation rental market, in the Manhattan borough of New York City based on available AirBnB data.
 
 ### Assumptions:
 - Airbnb rentals are equivalent to the general vacation rental statistics.	
