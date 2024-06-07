@@ -1,6 +1,6 @@
 # File Title: The Zuber Database
 
-This was my second project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in SQL.
+This was the second project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in SQL. The purpose was to find patterns in the available information from competitors to understand passenger preferences and the impact of external factors on rides.
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project2Pic.png" alt="First SQL Task Page">](https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c)
 
@@ -16,7 +16,7 @@ Loom Video Screencast and overview can be found <a href='https://www.loom.com/sh
 | Section Title | Description |
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
-| Description | Describes the final products purpose, software, format, and included visuals. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
@@ -43,12 +43,11 @@ A database with info on taxi rides in Chicago provided by TripleTen:
     - `'record_id'`: weather record code
     - `'ts'`: record date and time (time rounded to the hour)
     - `'temperature'`: temperature when the record was taken
-    - `'description'`: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
+    - `'description'`: a brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
 ### Description:
 - 6 Step SQL query.
-- Exploratory data analysis and investigation whether the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
-- Purpose was to find patterns in the available information from competitors to understand passenger preferences and the impact of external factors on rides.
+- Exploratory data analysis and investigation of whether the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
 
 ### Assumptions:
 - There isn't a direct connection between the trips table and weather_records table in the database.
@@ -58,7 +57,7 @@ A database with info on taxi rides in Chicago provided by TripleTen:
 - record_id is the Primary Key for the weather_records table.
 
 ### Process:
-Analyzed taxi rides by company for specific dates, sorting by trip count.
+Analyzed taxi rides by the company for specific dates, sorting by trip count.
 Analyzed rides for companies containing specific keywords, grouping by company name.
 Retrieved neighborhood IDs for O'Hare and Loop.
 Categorized weather conditions by hour.
