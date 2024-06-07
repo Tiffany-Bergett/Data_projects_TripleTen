@@ -1,5 +1,3 @@
-UNDER CONSTRUCTION
-
 # File Title: Fresh Beats Project Status Report.pdf
 
 This was an optional project I worked on after the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Business Intelligence. 
@@ -14,52 +12,59 @@ The platform faces challenges in optimizing these areas:
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 3 | [ReviewerGrade1.png](URL HERE) | This is a .png file showing the comments left by my project reviewer. |
-| 4 | [nyc_airbnb_data.csv](URL HERE) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 1 | [Fresh Beats Project Status Report.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Fresh%20Beats/Fresh%20Beats%20Project%20Status%20Report.pdf) | This is a .pdf of the final report shared to stakeholders in the requested Word Document format. |
+| 2 | [Fresh Beats User Data.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Fresh%20Beats/Fresh%20Beats%20User%20Data.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Fresh%20Beats/Requirments.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
-| Description | Describes the final products purpose, software, format, and included visuals. |
+| DATA | Describes the source of data, including files, tables, and fields. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
 
 ### Data
 The data was one Google spreadsheet file provided by TripleTen:
-- `'nyc_airbnb_data.csv'`: each row corresponds to one listing on AirBnB in September 2022
-    - `'data_dictionary'`: summary of field titles seen in file and it's data type
-    - `'listings'`: uniquely listings available with all available data
-    - `'calendar'`: listings with upcoming availabilities and date type data
+- `'sprint 0  BIA Welcome Sprint Project. Fresh Beats User Data'`: each row corresponds to one cross-dimensional category.
+    - `'year'`: year data was obtained for each dimension
+    - `'user_tier'`: Boolean data categorizing if the users were Free or Paid Subscribers
+    - `'genre'`: specifies a string of data for the type of genre that was listened to
+    - `'number_of_users'`: The SUM of all users for each dimension
+    - `'tracks_listened'`: The SUM of all music plays for each dimension
+
+A Google Doc with a template for the project was provided. Blank Sections included:
+- `'Summary'`
+- `'Insights'`
+- `'Recommendations'`
+- `'Visualizations'`
+- `'Conclusion'`
 
 ### Description:
-- 17 page spreadsheet
-- Includes raw data (Hidden), processed data, data analysis, pivot tables, and a bar chart.
-- Purpose was to determine what types of properties should be targeted for the vacation rental market, in the Manhattan borough of New York City based on available AirBnB data.
+- 3 page Google Doc
+- Includes key findings, recommendations, and Charts.
 
 ### Assumptions:
-- Airbnb rentals are equivalent to the general vacation rental statistics.	
-- Rental activity is assumed through the number of reviews in the last 12 months.	
-- Properties with no reviews in the last 12 months were considered inactive	
-- Super luxury listings with prices greater than $1,956.00 were filtered from the analysis, 1% outlier	
-- Extremely low-priced listings of less than $82 were filtered from the analysis, 1% outlier	
-- Superhosts properties reflect prices of properties the investor will purchase	
-
-### Process:
-I first explored, filtered, and cleaned the data.
-Then I created aggregations and pivot tables to determine the type of properties that should be targeted.
-I performed calculations, pivot tables and charts to determine occupancy and estimated revenue.
-I went a step further and chose to do an optional analysis to determine what attributes are important for a vacation rental.
-Lastly I finalized formatting for the client's readability.
+- Data Availability: The project assumes that all the necessary data for analyzing user engagement and business challenges is available in the provided dataset spreadsheet.
+- Data Accuracy: The project assumes that the data in the spreadsheet is accurate and reflects the actual user behavior on the Fresh Beats platform.
+- Insights and Visualizations Quality: The project assumes that the provided insights and visualizations are reliable and accurately represent the data within the spreadsheet.
+- Report Template Suitability: The project assumes that the provided report template is appropriate for presenting the findings and recommendations to stakeholders.
 
 ### Findings:
-1. The top 10 attractive neighborhoods for vacation rentals are as follows: Hell's Kitchen, Lower East Side, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Nolita.			
-2. The most popular vacation rental size is 1 bedroom overall. Lower East Side has the largest 1 bedroom demand. 2 bedrooms in Hell's Kitchen and Studio’s in Midtown are also desirable.			
-3. Saturday's have the highest occupancy rate out of the week.			
-4. Estimated revenue for similar properties to recommendations is $79,945.70.			
-5. Superhosts can charge higher prices, statistically significant.			
-6. Instant bookings do have higher occupancy rates, statistically significant.			
-7. Building with doormen get better reviews, statistically significant.			
-8. Hosts can charge higher prices for higher review ratings.
+
+#User Engagement and Conversion:
+- Paid users are more engaged: They listen to more music and show better retention. Converting free users to paid subscribers is a key strategy.
+- Genre preferences differ: Rock is popular with free users, while Indie is popular with paid users. Tailoring recommendations based on user type can improve engagement.
+- 
+#Artist Promotion Effectiveness and Genre Promotion for Emerging Artists:
+- Pop music is declining: Electronic and Hip-Hop are gaining traction. Fresh Beats should consider these trends when curating music and promoting artists.
+
+#Recommendations:
+- Target new music trends: Run targeted marketing campaigns and expand the music library for Electronic and Hip-Hop.
+- Maximize User Engagement:
+    - Paid User Conversion: Offer promotions and tiered subscriptions to convert free users.
+    - Free User Engagement: Analyze Rock listener retention and experiment with Rock-focused promotions.
+- Research and Analyze:
+    - Pop Decline: Investigate the reasons behind the decline in Pop music popularity.
+    - Rock User Conversion: Analyze factors affecting Rock listener retention and explore ways to convert them to paid users.
+- Focus on Paid Users: Promote Indie music, which is popular with paid users.
