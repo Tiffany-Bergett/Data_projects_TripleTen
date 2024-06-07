@@ -1,6 +1,6 @@
 # File Title: Call List Merge Report.PBIX
 
-This was my Externship project that I worked on after graduating from TripleTen Business Intelligence Analytics Program. It was a team project designed help a real world company, CrewTracker Software, to modernize their reporting system by migrating over 170 Crystal Reports to interactive Power BI dashboards, improving data visualization and user experience for CrewTracker's clients.
+This was my Externship project that I worked on after graduating from TripleTen Business Intelligence Analytics Program. It was a team project designed to help a real-world company, CrewTracker Software, modernize its reporting system by migrating over 170 Crystal Reports to interactive Power BI dashboards, improving data visualization and user experience for CrewTracker's clients.
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project8Pic.png" alt="Interactive Merged Report Using Dummy Server">](https://drive.google.com/file/d/127-o2r_JCsCJwlNCtmzJsxAp8Ti1jIi3/view?usp=drive_link)
 
@@ -10,7 +10,7 @@ Video Overview can be found <a href='https://drive.google.com/file/d/127-o2r_JCs
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Call List Merge Report.PBIX](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Call%20List%20Merge%20Report.pbix) | My final project with the Externship, a merged Power BI Dashboard from 3 Crystal Reports. |
-| 2 | [Externship Cert.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Externship%20Cert.pdf) | Certificate of Proof for completion of the externship while meeting or exceeding requirments. |
+| 2 | [Externship Cert.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Externship%20Cert.pdf) | Certificate of Proof for completion of the externship while meeting or exceeding requirements. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/CrewTracker/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and CrewTracker. |
 
@@ -25,8 +25,8 @@ Video Overview can be found <a href='https://drive.google.com/file/d/127-o2r_JCs
 
 
 ### Data
-CrewTracker Software's Microsoft SQL Database (CREWAI and it's Dummy Database SnowTracker) on Azure Cloud (anonymized data).
--Large Datbase with 97 total tables with high-level relationships.
+CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database SnowTracker) on Azure Cloud (anonymized data).
+-Large Database with 97 total tables with high-level relationships.
 
 ### Description:
 - 172 Crystal Reports requested for conversion.
@@ -35,12 +35,12 @@ CrewTracker Software's Microsoft SQL Database (CREWAI and it's Dummy Database Sn
       
 - First Responder (5 members): Extract data from Crystal Reports.
 - Peer Reviewer - Review and validate Power BI reports.
-- Power BI Team - Convert & consolidate reports, design interactive dashboards with longevity.
+- Power BI Team - Convert & consolidate reports, and design interactive dashboards with longevity.
 
 ### Assumptions:
-- Reports on initial list that could not be found on the workstation were no longer needed and listed as "File Not Found"
-- If a Crystal Report could not open, it needed to be rerouted to a dummy server for the purposes of this Externship.
-- Each Crystal report needed a 1-1 converstion into a Powwer BI Dashboard. However, as our experience in the converstion process grew this requirment was adjusted for comfort level and we were allowed to create merged reports based on a similarity map.
+- Reports on the initial list that could not be found on the workstation were no longer needed and listed as "File Not Found"
+- If a Crystal Report could not open, it needed to be rerouted to a dummy server for this Externship.
+- Each Crystal report needed a 1-1 conversation into a Powwer BI Dashboard. However, as our experience in the conversation process grew this requirement was adjusted for comfort level and we were allowed to create merged reports based on a similarity map.
 
 ### Process:
 First Responder:
@@ -59,7 +59,7 @@ Peer Reviewer:
 
 Call List Merge Report:
   1) Merge source SQL Queries into one SQL Direct Query.
-  2) Build Power BI Dashboard according to Call List Reports layout expectations. Using best judgement for variances between the three reports.
+  2) Build Power BI Dashboard according to Call List Reports layout expectations. Using best judgment for variances between the three reports.
   3) Convert Crystal Report Formula Fields into Power BI DAX as Measures and Calculations, ensuring the formatting allows for various potential future uses.
 
 ### Results:
