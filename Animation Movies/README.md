@@ -1,6 +1,6 @@
 # File Title: Animated_Movies.twbx
 
-This was my Code Jam Competition project that I worked after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills.
+This was a Code Jam Competition project that I worked on after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills. The purpose was to create a visually compelling story from a provided dataset in 4 days with Tableau and collaboration.
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project9Pic.png" alt="Tableau Story Welcome Page">](https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -20,7 +20,7 @@ Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/An
 | Section Title | Description |
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
-| Description | Describes the final products purpose, software, format, and included visuals. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
@@ -34,13 +34,13 @@ The data was one .csv file provided by TripleTen
     - `'vote_average'`: Average voter score
     - `'vote_count'`: Total number of votes
     - `'status'`: Boolean stat- released for viewing or still in production
-    - `'release_date'`: Date movie was released to public
+    - `'release_date'`: The date the movie was released to the public
     - `'revenue'`: Money earned after release
     - `'runtime'`: Length of movie in time
     - `'adult'`: Boolean stat to tag if it was made for adults
-    - `'budget'`: Money reserved for creation of movie
+    - `'budget'`: Money reserved for the creation of the movie
     - `'original_language'`: Primary language spoken upon first release
-    - `'popularity'`: Numerical value comparing demand for movie compared to other movies
+    - `'popularity'`: Numerical value comparing demand for a movie compared to other movies
     - `'genres'`: List of all genre tags for each movie
     - `'production_companies'`: List of all production companies involved in each movie
     - `'production_countries'`: Country of origin
@@ -48,36 +48,35 @@ The data was one .csv file provided by TripleTen
 ### Description:
 - 1 Tableau Story made from 6 Dashboards and 14 visuals
 - Includes parameters, calculations, sets, and a final presentation of the Tableau Story.
-- Purpose was to create a visually compelling story from a provided dataset in 4 days with Tableau and collaboration.
 
 ### Assumptions:
-- The main genre was the 1st one listed, analysis was based on main genre.
+- The main genre was the 1st one listed, analysis was based on the main genre.
 - Missing values or inconsistencies in the data are minimal and can be ignored.
 - The provided data was clean when provided to us.
 
 ### Process:
 First, We held a Google Meet to organize our team details and technical details on how to best seemlessly share the work between time zones and workstations.
-Then, team member Michelle explored, filtered, and cleaned the data through Jupyter notebook via python.
+Then, team member Michelle explored, filtered, and cleaned the data through Jupyter Notebook via Python.
 Next, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.
-Simultaneously, preparing the presentation requirments, outline, and details in the same collaborative method via Discord and .txt file.
-Lastly, We recorded our assigned portions of the presentation and used video manipulation to make it one seemless video presentaion.
+Simultaneously, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.
+Lastly, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.
 
 ### Findings:
 - The United States produces the most animated movies, but production is happening far and wide across the globe.
-- The most produced genre was Comedy until the 1970's when Family films took over. Except for a brief period at the begining of the pandemic when Documentaries were Top.
+- The most produced genre was Comedy until the 1970s when Family films took over. Except for a brief period at the beginning of the pandemic when Documentaries were Top.
 - English the primary language of animated movies.
 - Original Language had a positive correlation with film runtime.
-- Animated movies have been steadily getting longer over time until the 2008 recession, have had steadily declined since.
+- Animated movies have been steadily getting longer over time until the 2008 recession, and have steadily declined since.
 - Pixar, when in conjunction with Disney had the highest revenue at 7.9 Billion.
 - Frozen 2 made the highest revenue at 1.45 Billion.
-- There is a direct corellation between budget size and revenue.
-- Sequals bring more money in than their original titles.
+- There is a direct correlation between budget size and revenue.
+- Sequels bring more money in than their original titles.
 - ONF | NFB has the most produced films yet does not reach near the top in revenue.
-- Sleeping Beauty had highest verage vote scores.
-- Elemental had highest Popularity scores
+- Sleeping Beauty had the highest average vote scores.
+- Elemental had the highest Popularity scores
 
 ### Results:
-Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within provided datasets.
+Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets.
 Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.
 Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.
 Presentation Skills: I participated in crafting a clear and concise presentation that showcased our project's findings within a limited timeframe.
