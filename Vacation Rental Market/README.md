@@ -1,6 +1,6 @@
 # File Title: nyc.airbnb.data_v1.3.29_2023.10.21
 
-This was my first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Advanced Spreadsheets.
+This was my first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC to help a client decide what type of vacation rental property to invest in.
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="First Sheet of Project">](https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing)
 
