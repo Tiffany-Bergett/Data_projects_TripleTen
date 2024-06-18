@@ -1,4 +1,4 @@
-# File Title: nyc.airbnb.data_v1.3.29_2023.10.21
+# File Title: nyc.airbnb.data_v2.7_2024.06.17
 
 This was the first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC to help a client decide what type of vacation rental property to invest in.
 
