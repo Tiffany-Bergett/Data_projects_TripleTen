@@ -1,11 +1,13 @@
-# File Title: nyc.airbnb.data_v2.7_2024.06.17
+:warning: :construction: PROJECT PAGE UNDER CONSTRUCTION :construction: :warning:
+
+# File Title: Manhattan Vacation Rental Market Project
 
 This was the first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC to help a client decide what type of vacation rental property to invest in.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="First Sheet of Project">](https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Manhattan%20Project.png">](https://docs.google.com/spreadsheets/d/1dNFTH1PFCCO9aLPLjjbvPxlqKe1Hkd2Nenf2dFyWxe0/edit?usp=sharing)
 
 
-Loom Video Overview can be found <a href='https://www.loom.com/share/ce9c49cdaee940119543cc38f0d34c09?sid=d68d5288-388a-472f-b182-8ce23b8cb7ec' target=_blank><u>here</u>.</a>
+Loom Video Overview can be found <a href='NEW LINK STILL NEEDED' target=_blank><u>here</u>.</a>
 Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
