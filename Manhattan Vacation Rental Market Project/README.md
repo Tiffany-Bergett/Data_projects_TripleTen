@@ -8,7 +8,7 @@ This was the first project I worked on in the TripleTen Business Intelligence An
 
 
 Loom Video Overview can be found <a href='NEW LINK STILL NEEDED' target=_blank><u>here</u>.</a>
-Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1-BA2THPUa9GJlQce1T_tnS487xvcGe3LJv34cnminzI/edit?usp=sharing' target=_blank><u>here</u>.</a>
+Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1dNFTH1PFCCO9aLPLjjbvPxlqKe1Hkd2Nenf2dFyWxe0/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
