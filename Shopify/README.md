@@ -6,12 +6,13 @@ This was the 6th project that I worked on in the TripleTen Business Intelligence
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
 
-### Table of Contents
+### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
+### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
@@ -20,7 +21,7 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
 
-### Data
+#### Data
 The Excel file provided by TripleTenwas was public data scraped from the Shopify App Store.
 - `'shopify.xlsx'`: Excel Workbook containing 4 sheets:
     - `'apps'`: Details of the apps on the Shopify apps marketplace
@@ -28,21 +29,21 @@ The Excel file provided by TripleTenwas was public data scraped from the Shopify
     - `'categories'`: Categories of the apps. Each app has multiple categories
     - `'reviews'`: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present.
 
-### Description:
+#### Description:
 - 3 page Power BI Dashboard
 - Includes data analysis, KPI cards and Charts
 
-### Assumptions:
+#### Assumptions:
 - The scraped data from Shopify websites is accurate and representative of the actual app landscape.
 - The data in the shopify.xlsx file is complete and consistent, with minimal missing values or inconsistencies.
 - The provided column names and data types in the tables accurately reflect their content.
 
-### Process:
+#### Process:
 I first assessed the app store landscape using KPI cards and charts.
 Then I cataloged review data with cards and charts.
 Lastly, I analyzed app developers across review types.
 
-### Findings:
+#### Findings:
 1. New Apps are more likely to be rated early in their deployment.
 2. Most apps are rated favorably.
 3. Reviews are higher for an app if a developer answers the review.
