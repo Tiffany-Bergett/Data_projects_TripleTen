@@ -6,13 +6,14 @@ This was the second project I worked on in the TripleTen Business Intelligence A
 
 Loom Video Screencast and overview can be found <a href='https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c' target=_blank><u>here</u>.</a>
 
-### Table of Contents
+### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 3 | [Table Scheme.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Table%20Scheme.png) | A .png file showing the relationships between tables used in this project. |
 
+### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
@@ -21,7 +22,7 @@ Loom Video Screencast and overview can be found <a href='https://www.loom.com/sh
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
 
-### Data
+#### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
 - `'neighborhoods'` table: data on city neighborhoods
     - `'name'`: name of the neighborhood
@@ -45,18 +46,18 @@ A database with info on taxi rides in Chicago provided by TripleTen:
     - `'temperature'`: temperature when the record was taken
     - `'description'`: a brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
-### Description:
+#### Description:
 - 6 Step SQL query.
 - Exploratory data analysis and investigation of whether the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
 
-### Assumptions:
+#### Assumptions:
 - There isn't a direct connection between the trips table and weather_records table in the database.
 - neighborhood_id is the Primary Key for the neighborhoods table.
 - cab_id is the Primary Key for the cabs table.
 - trip_id is the Primary Key for the trips table.
 - record_id is the Primary Key for the weather_records table.
 
-### Process:
+#### Process:
 Analyzed taxi rides by the company for specific dates, sorting by trip count.
 Analyzed rides for companies containing specific keywords, grouping by company name.
 Retrieved neighborhood IDs for O'Hare and Loop.
@@ -64,7 +65,7 @@ Categorized weather conditions by hour.
 Retrieved Saturday rides from Loop to O'Hare, including weather and duration.
 Sorted the results.
 
-### Findings:
+#### Findings:
 - The taxi company "Flash Cab" had the highest number of taxi rides for Nov. 15th-16th, 2017 at 19,558 trips.
 - When searching SQL for a taxi company that contains the keyword "Yellow" or "Blue": The taxi company "Blue Diamond" had the highest number of taxi rides for Nov. 1st-7th, 2017 at 6,764 trips.
 - When comparing the two most popular taxi companies "Flash Cab" and "Taxi Affiliation Services" with all other available companies for Nov. 1st - 7th, 2017; The total number of taxi rides from "Other" is significantly higher than each top company separate or combined.
