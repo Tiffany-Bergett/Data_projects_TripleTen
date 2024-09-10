@@ -1,3 +1,5 @@
+⚠️ 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧 ⚠️
+
 # File Title: Fresh Beats Project Status Report.pdf
 
 This was an optional project I worked on after the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Business Intelligence. 
@@ -9,7 +11,9 @@ The platform faces challenges in optimizing these areas:
 - Converting free listeners into paying subscribers.
 - Recommending music effectively, especially for highlighting new artists in relevant genres.
 
-### Table of Contents
+Loom Video Overview can be found HERE. Projects Google Document page can be found HERE.
+
+### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Fresh Beats Project Status Report.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Fresh%20Beats/Fresh%20Beats%20Project%20Status%20Report.pdf) | This is a .pdf of the final report shared to stakeholders in the requested Word Document format. |
@@ -17,6 +21,7 @@ The platform faces challenges in optimizing these areas:
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Fresh%20Beats/Requirments.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
+### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
 | DATA | Describes the source of data, including files, tables, and fields. |
@@ -24,7 +29,7 @@ The platform faces challenges in optimizing these areas:
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 
-### Data
+#### Data
 The data was one Google spreadsheet file provided by TripleTen:
 - `'sprint 0  BIA Welcome Sprint Project. Fresh Beats User Data'`: each row corresponds to one cross-dimensional category.
     - `'year'`: year data was obtained for each dimension
@@ -40,17 +45,17 @@ A Google Doc with a template for the project was provided. Blank Sections includ
 - `'Visualizations'`
 - `'Conclusion'`
 
-### Description:
+#### Description:
 - 3 page Google Doc
 - Includes key findings, recommendations, and Charts.
 
-### Assumptions:
+#### Assumptions:
 - Data Availability: The project assumes that all the necessary data for analyzing user engagement and business challenges is available in the provided dataset spreadsheet.
 - Data Accuracy: The project assumes that the data in the spreadsheet is accurate and reflects the actual user behavior on the Fresh Beats platform.
 - Insights and Visualizations Quality: The project assumes that the provided insights and visualizations are reliable and accurately represent the data within the spreadsheet.
 - Report Template Suitability: The project assumes that the provided report template is appropriate for presenting the findings and recommendations to stakeholders.
 
-### Findings:
+#### Findings:
 
 User Engagement and Conversion:
 - Paid users are more engaged: They listen to more music and show better retention. Converting free users to paid subscribers is a key strategy.
@@ -59,7 +64,7 @@ User Engagement and Conversion:
 Artist Promotion Effectiveness and Genre Promotion for Emerging Artists:
 - Pop music is declining: Electronic and Hip-Hop are gaining traction. Fresh Beats should consider these trends when curating music and promoting artists.
 
-Recommendations:
+#### Recommendations:
 - Target new music trends: Run targeted marketing campaigns and expand the music library for Electronic and Hip-Hop.
 - Maximize User Engagement:
     - Paid User Conversion: Offer promotions and tiered subscriptions to convert free users.
