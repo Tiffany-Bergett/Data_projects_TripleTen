@@ -8,7 +8,7 @@ YouTube LIVE recording of entire competition with host Q&A can be found <a href=
 Team Chart-cuteri's recorded presentation can be found <a href='https://drive.google.com/file/d/1hCgHvyS8QK4xuK0Vba_DeCW6dX-BBXlA/view?usp=drive_link' target=_blank><u>here</u>.</a>
 Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
-### Table of Contents
+### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Animated_Movies.twbx](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animated_Movies.twbx) | The Tableau Workbook file with all interactive Visualizations, Dashboards, and Story. |
@@ -17,6 +17,7 @@ Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/An
 | 4 | README.md | This current page, with all relevant information about the project, just past the Table of contents. |
 | 5 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
 
+### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
 | DATA | Describes the source of data, included files, tables, and fields. |
@@ -26,7 +27,7 @@ Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/An
 | Findings | Insights learned from the data analysis. |
 | Results | List of accomplishments and skills practiced in this project. |
 
-### Data
+#### Data
 The data was one .csv file provided by TripleTen
 - `'Animation_Movies.csv'`: Original data. 1 Table with 23 Fields. Fields kept after data cleaning:
     - `'id'`: Unique Identifier
@@ -45,23 +46,23 @@ The data was one .csv file provided by TripleTen
     - `'production_companies'`: List of all production companies involved in each movie
     - `'production_countries'`: Country of origin
 
-### Description:
+#### Description:
 - 1 Tableau Story made from 6 Dashboards and 14 visuals
 - Includes parameters, calculations, sets, and a final presentation of the Tableau Story.
 
-### Assumptions:
+#### Assumptions:
 - The main genre was the 1st one listed, analysis was based on the main genre.
 - Missing values or inconsistencies in the data are minimal and can be ignored.
 - The provided data was clean when provided to us.
 
-### Process:
+#### Process:
 First, We held a Google Meet to organize our team details and technical details on how to best seemlessly share the work between time zones and workstations.
 Then, team member Michelle explored, filtered, and cleaned the data through Jupyter Notebook via Python.
 Next, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.
 Simultaneously, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.
 Lastly, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.
 
-### Findings:
+#### Findings:
 - The United States produces the most animated movies, but production is happening far and wide across the globe.
 - The most produced genre was Comedy until the 1970s when Family films took over. Except for a brief period at the beginning of the pandemic when Documentaries were Top.
 - English the primary language of animated movies.
@@ -75,7 +76,7 @@ Lastly, We recorded our assigned portions of the presentation and used video man
 - Sleeping Beauty had the highest average vote scores.
 - Elemental had the highest Popularity scores
 
-### Results:
+#### Results:
 Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets.
 Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.
 Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.
