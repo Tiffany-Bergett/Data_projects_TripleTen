@@ -2,9 +2,9 @@
 
 This was a Code Jam Competition project that I worked on after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills. The purpose was to create a visually compelling story from a provided dataset in 4 days with Tableau and collaboration.
 
-This project highlights my strengths in:<p>
-Data Analysis & Exploration (understanding and manipulating data)<p>
-Data Visualization (creating clear and informative visuals)<p>
+This project highlights my strengths in:<br>
+Data Analysis & Exploration (understanding and manipulating data)<br>
+Data Visualization (creating clear and informative visuals)<br>
 Communication & Teamwork (conveying insights and collaborating effectively)
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project9Pic.png" alt="Tableau Story Welcome Page">](https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
@@ -83,7 +83,7 @@ The data was one .csv file provided by TripleTen
 - Elemental had the highest Popularity scores
 
 #### Results:
-Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets. <p>
-Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.<p>
-Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.<p>
+Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets. <br>
+Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.<br>
+Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.<br>
 Presentation Skills: I participated in crafting a clear and concise presentation that showcased our project's findings within a limited timeframe.
