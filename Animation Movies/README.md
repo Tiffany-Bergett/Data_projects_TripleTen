@@ -2,6 +2,11 @@
 
 This was a Code Jam Competition project that I worked on after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills. The purpose was to create a visually compelling story from a provided dataset in 4 days with Tableau and collaboration.
 
+This project highlights my strengths in:<p>
+Data Analysis & Exploration (understanding and manipulating data)<p>
+Data Visualization (creating clear and informative visuals)<p>
+Communication & Teamwork (conveying insights and collaborating effectively)
+
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project9Pic.png" alt="Tableau Story Welcome Page">](https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 YouTube LIVE recording of entire competition with host Q&A can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=fNs4AeeffGvZo9k8' target=_blank><u>here</u>.</a>
@@ -20,12 +25,24 @@ Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/An
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | Describes the process, including tools or tech used. |
+| Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
-| Results | List of accomplishments and skills practiced in this project. |
+| Recommendations | Recommended direction for the stakeholders based on final analysis. |
+| Notes | List any special requests from the reviews or stakeholders unique to this project. |
+
+#### Description:
+- 1 Tableau Story made from 6 Dashboards and 14 visuals
+- Includes parameters, calculations, sets, and a final presentation of the Tableau Story.
+
+#### Process:
+First, We held a Google Meet to organize our team details and technical details on how to best seamlessly share the work between time zones and workstations.
+Then, team member Michelle explored, filtered, and cleaned the data using Jupyter Notebook and Python.
+Next, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.
+Simultaneously, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.
+Lastly, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.
 
 #### Data
 The data was one .csv file provided by TripleTen
@@ -46,21 +63,10 @@ The data was one .csv file provided by TripleTen
     - `'production_companies'`: List of all production companies involved in each movie
     - `'production_countries'`: Country of origin
 
-#### Description:
-- 1 Tableau Story made from 6 Dashboards and 14 visuals
-- Includes parameters, calculations, sets, and a final presentation of the Tableau Story.
-
 #### Assumptions:
 - The main genre was the 1st one listed, analysis was based on the main genre.
 - Missing values or inconsistencies in the data are minimal and can be ignored.
 - The provided data was clean when provided to us.
-
-#### Process:
-First, We held a Google Meet to organize our team details and technical details on how to best seemlessly share the work between time zones and workstations.
-Then, team member Michelle explored, filtered, and cleaned the data through Jupyter Notebook via Python.
-Next, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.
-Simultaneously, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.
-Lastly, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.
 
 #### Findings:
 - The United States produces the most animated movies, but production is happening far and wide across the globe.
@@ -77,12 +83,7 @@ Lastly, We recorded our assigned portions of the presentation and used video man
 - Elemental had the highest Popularity scores
 
 #### Results:
-Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets.
-Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.
-Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.
+Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets. <p>
+Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.<p>
+Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.<p>
 Presentation Skills: I participated in crafting a clear and concise presentation that showcased our project's findings within a limited timeframe.
-
-This project highlights my strengths in:
-Data Analysis & Exploration (understanding and manipulating data)
-Data Visualization (creating clear and informative visuals)
-Communication & Teamwork (conveying insights and collaborating effectively)
