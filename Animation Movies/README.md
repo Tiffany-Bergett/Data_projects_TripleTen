@@ -1,6 +1,6 @@
 # File Title: Animated_Movies.twbx
 
-This was a Code Jam Competition project that I worked on after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills. The purpose was to create a visually compelling story from a provided dataset in 4 days with Tableau and collaboration.
+This was a Code Jam **Competition** project that I worked on after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills. The purpose was to create a visually compelling story from a provided dataset **in 4 days with Tableau and collaboration**.
 
 This project highlights my strengths in:<br>
 Data Analysis & Exploration (understanding and manipulating data)<br>
@@ -38,11 +38,11 @@ Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/An
 - Includes parameters, calculations, sets, and a final presentation of the Tableau Story.
 
 #### Process:
-First, We held a Google Meet to organize our team details and technical details on how to best seamlessly share the work between time zones and workstations.
-Then, team member Michelle explored, filtered, and cleaned the data using Jupyter Notebook and Python.
-Next, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.
-Simultaneously, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.
-Lastly, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.
+**First**, We held a Google Meet to organize our team details and technical details on how to best seamlessly share the work between time zones and workstations.
+**Then**, team member Michelle explored, filtered, and cleaned the data using Jupyter Notebook and Python.
+**Next**, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.
+**Simultaneously**, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.
+**Lastly**, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.
 
 #### Data
 The data was one .csv file provided by TripleTen
@@ -83,7 +83,7 @@ The data was one .csv file provided by TripleTen
 - Elemental had the highest Popularity scores
 
 #### Results:
-Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within the provided datasets. <br>
-Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.<br>
-Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.<br>
-Presentation Skills: I participated in crafting a clear and concise presentation that showcased our project's findings within a limited timeframe.
+**Collaborative Brainstorming**: I effectively worked with a team to identify interesting stories within the provided datasets. <br>
+**Data-Driven Storytelling**: I focused on insights supported by data, ensuring clear and ethical use of information.<br>
+**Visual Storytelling**: I created unique data visualizations that complemented the narrative and communicated key points effectively.<br>
+**Presentation Skills**: I participated in crafting a clear and concise presentation that showcased our project's findings within a limited timeframe.
