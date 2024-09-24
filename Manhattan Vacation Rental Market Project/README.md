@@ -2,7 +2,7 @@
 
 # File Title: Manhattan Vacation Rental Market Project
 
-This was the first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC to help a client decide what type of vacation rental property to invest in.
+This is VERSION 2 of the first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC to help a client decide what type of vacation rental property to invest in.
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Manhattan%20Project.png">](https://docs.google.com/spreadsheets/d/1dNFTH1PFCCO9aLPLjjbvPxlqKe1Hkd2Nenf2dFyWxe0/edit?usp=sharing)
 
