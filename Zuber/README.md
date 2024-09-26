@@ -5,6 +5,7 @@ This was the second project I worked on in the TripleTen Business Intelligence A
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project2Pic.png" alt="First SQL Task Page">](https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c)
 
 Loom Video Screencast and overview can be found <a href='https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c' target=_blank><u>here</u>.</a>
+Word Document with Goals, Code, and Results can be found <a href='https://docs.google.com/document/d/1t9FqPRD-FGLUZX0qEDk4kp3brIdVtAm7cCa1mUBBytg/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
@@ -12,6 +13,7 @@ Loom Video Screencast and overview can be found <a href='https://www.loom.com/sh
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 3 | [Table Scheme.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Table%20Scheme.png) | A .png file showing the relationships between tables used in this project. |
+| 4 | [Zubr.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zuber/Zuber.pdf) | A .pdf file showing the entire project's goals, code, and sample results. |
 
 ### Table of Contents for README
 | Section Title | Description |
