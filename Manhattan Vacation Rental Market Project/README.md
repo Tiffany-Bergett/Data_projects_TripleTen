@@ -1,5 +1,3 @@
-:warning: :construction: PROJECT PAGE UNDER CONSTRUCTION :construction: :warning:
-
 # File Title: Manhattan Vacation Rental Market Project
 
 This is VERSION 2 of the first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC to help a client decide what type of vacation rental property to invest in.
@@ -7,38 +5,47 @@ This is VERSION 2 of the first project I worked on in the TripleTen Business Int
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Manhattan%20Project.png">](https://docs.google.com/spreadsheets/d/1dNFTH1PFCCO9aLPLjjbvPxlqKe1Hkd2Nenf2dFyWxe0/edit?usp=sharing)
 
 
-Loom Video Overview can be found <a href='NEW LINK STILL NEEDED' target=_blank><u>here</u>.</a>
+Loom Video Overview can be found <a href='https://www.loom.com/share/5dcca9877f544883869566b1e8468505?sid=e6021781-b845-461c-b132-2b099657b656' target=_blank><u>here</u>.</a>
 Projects Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1dNFTH1PFCCO9aLPLjjbvPxlqKe1Hkd2Nenf2dFyWxe0/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Manhattan Vacation Rental Market Project.xlsx](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/Manhattan%20Vacation%20Rental%20Market%20Project.xlsx) | The downloadable excel workbook file of the actual project. |
+| 1 | [Manhattan Vacation Rental .pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/Manhattan%20Vacation%20Rental%20Market%20.pdf) | The downloadable pdf file of the actual project. |
 | 2 | [Project Rubric V2.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/Project%20Rubric%20V2.pdf) | A .PDF file with the provided template for grading. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 5 | [ReviewerGrade1.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/ReviewerGrade1.png) | This is a .png file showing the comments left by my project reviewer. |
-| 6 | [nyc_airbnb_data.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/nyc_airbnb_data.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | Describes the process, including tools or tech used. |
+| DATA | Describes the source of data, included files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
-| Findings | Insights learned from the data analysis. |
-
-#### Data
-The data was one Google spreadsheet file provided by TripleTen:
-- `'nyc_airbnb_data.csv'`: each row corresponds to one listing on AirBnB in September 2022
-    - `'data_dictionary'`: summary of field titles seen in the file and its data type
-    - `'listings'`: uniquely listings available with all available data
-    - `'calendar'`: listings with upcoming availabilities and date-type data
+| Findings & Recommendations | Insights and suggested considerations learned from the data analysis. |
 
 #### Description:
 - 17 page spreadsheet
 - Includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts.
+
+#### Process:
+1) **Data Preparation**: *Filtering* techniques were used to identify and clean inconsistencies within the Airbnb data. Irrelevant columns were hidden to maintain a focused analysis. Key functions such as PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were employed for data tidying.
+2) **Neighborhood Analysis**: Identify the top-performing neighborhoods based on review frequency via *Pivot Table*.
+3) **Property Size Analysis**: Determine the optimal property sizes for each neighborhoodvia *Pivot Table* showcased with *conditional formatting*.
+4) **Revenue Analysis**: Calculate estimated annual revenue for the most attractive listings.
+5) **Additional Optional Analysis**: Perform Analysis through *Pivot Tables* for occupancy rates by day, price by super host status, check-in ratings by use of doormen, and price by review ratings.
+6) **Data Visualization**: Create clear and informative *visualizations* (charts) to present findings.
+7) **Formatting and Organization**: Ensure your analysis is well-formatted for ease of readability.
+8) **Documentation**: Create organizational sheets like an executive summary, table of contents, assumptions log, and change log.
+ 
+#### Data
+The data was one Google spreadsheet file provided by TripleTen, Copy can be found [HERE](https://docs.google.com/spreadsheets/d/1Z7KNEYs_YtQP57mWXRddPGAI3Sk-tPzLnCsdysCSw_c/edit?usp=sharing):
+- `'nyc_airbnb_data.csv'`: each row corresponds to one listing on Airbnb in September 2022
+    - `'data_dictionary'`: summary of field titles seen in the file and its data type
+    - `'listings'`: uniquely listings available with all available data
+    - `'calendar'`: listings with upcoming availabilities and date-type data
 
 #### Assumptions:
 -Airbnb rentals are equivalent to the general short-term vacation rental market.
@@ -51,16 +58,9 @@ The data was one Google spreadsheet file provided by TripleTen:
 -"Building staff" equates to a Doorman
 -A listing of 9k can be excluded when examining price/review due to it being an extreme outlier.
 
-#### Process:
-I first explored, filtered, and cleaned the data.
-Then I created aggregations and pivot tables to determine the type of properties that should be targeted.
-I performed calculations, pivot tables, and charts to determine occupancy and estimated revenue.
-I went a step further and chose to do an optional analysis to determine what attributes are important for a vacation rental.
-Lastly, I finalized the formatting for the client's readability.
-
-#### Findings:
-1. The top 10 attractive neighborhoods for vacation rentals are as follows: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Upper East Side.	
-2. The most popular vacation rental size is 1 bedroom overall. Lower East Side has the largest 1-bedroom demand. Hell's Kitchen prefers 2 bedrooms and Midtown prefers Studio.	
+#### Findings and Recommendations:
+1. The top recommended neighborhoods for vacation rentals are as follows: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Upper East Side.	
+2. The top rental size is 1 bedroom overall. Lower East Side properties should have 1-bedrooms to meet demand. Hell's Kitchen prefers 2 bedrooms and Midtown prefers Studio.	
 3. The estimated annual revenue based on top listing characteristics is $69,957.	
 4. Fridays have the highest occupancy rate out of the week, average occupancy is 86.4%.	
 5. Instant bookings do have higher occupancy rates, statistically significant, average is 52%.	
