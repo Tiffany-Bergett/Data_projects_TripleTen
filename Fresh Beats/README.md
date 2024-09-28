@@ -9,7 +9,7 @@ The platform faces challenges in optimizing these areas:
 - Converting free listeners into paying subscribers.
 - Recommending music effectively, especially for highlighting new artists in relevant genres.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Fresh%20Beats%20Project.png">](https://docs.google.com/document/d/1wIhAKIBajnn_FMr4jLVH3TH_5oYFpeG6wXxMQASSbUs/edit?usp=sharing)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Fresh%20Beats%20Project.png">](https://www.loom.com/share/73835eaac47943a6bd7b28c6c0944739?sid=56ecfd0a-af47-434f-9f92-2353c1449828)
 
 Loom Video Overview can be found [HERE](https://www.loom.com/share/73835eaac47943a6bd7b28c6c0944739?sid=29a6e8bb-d446-4e5d-94da-1be869704de1).
 Projects Google Doc version can be found [HERE](https://docs.google.com/document/d/1wIhAKIBajnn_FMr4jLVH3TH_5oYFpeG6wXxMQASSbUs/edit?usp=sharing).
