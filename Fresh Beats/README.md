@@ -4,7 +4,7 @@
 
 This was an optional project I worked on after the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Business Intelligence. 
 
-Fresh Beats is a music streaming platform that caters to both listeners and up-and-coming musicians. It offers music streaming and helps new artists gain exposure through promotional services.
+Fresh Beats is a music streaming platform catering to listeners and up-and-coming musicians. It offers music streaming and helps new artists gain exposure through promotional services.
 The platform faces challenges in optimizing these areas:
 
 - Ensuring artist promotions are effective and deliver value for musicians.
@@ -13,7 +13,7 @@ The platform faces challenges in optimizing these areas:
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Fresh%20Beats%20Project.png">](https://docs.google.com/document/d/1wIhAKIBajnn_FMr4jLVH3TH_5oYFpeG6wXxMQASSbUs/edit?usp=sharing)
 
-Loom Video Overview can be found HERE. Projects Google Document page can be found [HERE](https://docs.google.com/document/d/1wIhAKIBajnn_FMr4jLVH3TH_5oYFpeG6wXxMQASSbUs/edit?usp=sharing).
+Loom Video Overview can be found [HERE](https://www.loom.com/share/73835eaac47943a6bd7b28c6c0944739?sid=29a6e8bb-d446-4e5d-94da-1be869704de1). Projects Google Document page can be found [HERE](https://docs.google.com/document/d/1wIhAKIBajnn_FMr4jLVH3TH_5oYFpeG6wXxMQASSbUs/edit?usp=sharing).
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
@@ -53,7 +53,7 @@ A Google Doc with a template for the project was provided. Blank Sections includ
 
 #### Assumptions:
 - Data Availability: The project assumes that all the necessary data for analyzing user engagement and business challenges is available in the provided dataset spreadsheet.
-- Data Accuracy: The project assumes that the data in the spreadsheet is accurate and reflects the actual user behavior on the Fresh Beats platform.
+- Data Accuracy: The project assumes that the data in the spreadsheet is accurate and reflects the user behavior on the Fresh Beats platform.
 - Insights and Visualizations Quality: The project assumes that the provided insights and visualizations are reliable and accurately represent the data within the spreadsheet.
 - Report Template Suitability: The project assumes that the provided report template is appropriate for presenting the findings and recommendations to stakeholders.
 
