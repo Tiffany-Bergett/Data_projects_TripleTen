@@ -18,11 +18,23 @@ Word Document with Goals, Code, and Results can be found <a href='https://docs.g
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
+| DATA | Describes the source of data, included files, tables, and fields. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
+
+#### Description:
+- 6 Step SQL query.
+- Exploratory data analysis and investigation of whether the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
+  
+#### Process:
+1) Analyzed taxi rides by the company for specific dates, sorting by trip count.
+2) Analyzed rides for companies containing specific keywords, grouping by company name.
+3) Retrieved neighborhood IDs for O'Hare and Loop.
+4) Categorized weather conditions by hour.
+5) Retrieved Saturday rides from Loop to O'Hare, including weather and duration.
+6) Sorted the results.
 
 #### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
@@ -48,24 +60,12 @@ A database with info on taxi rides in Chicago provided by TripleTen:
     - `'temperature'`: temperature when the record was taken
     - `'description'`: a brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
-#### Description:
-- 6 Step SQL query.
-- Exploratory data analysis and investigation of whether the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
-
 #### Assumptions:
 - There isn't a direct connection between the trips table and weather_records table in the database.
 - neighborhood_id is the Primary Key for the neighborhoods table.
 - cab_id is the Primary Key for the cabs table.
 - trip_id is the Primary Key for the trips table.
 - record_id is the Primary Key for the weather_records table.
-
-#### Process:
-Analyzed taxi rides by the company for specific dates, sorting by trip count.
-Analyzed rides for companies containing specific keywords, grouping by company name.
-Retrieved neighborhood IDs for O'Hare and Loop.
-Categorized weather conditions by hour.
-Retrieved Saturday rides from Loop to O'Hare, including weather and duration.
-Sorted the results.
 
 #### Findings:
 - The taxi company "Flash Cab" had the highest number of taxi rides for Nov. 15th-16th, 2017 at 19,558 trips.
