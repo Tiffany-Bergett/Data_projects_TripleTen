@@ -1,4 +1,4 @@
-# File Title: Fresh Beats Project Status Report
+# File Title: Fresh Beats Status Report
 
 This was an optional project I worked on after the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Business Intelligence. 
 
