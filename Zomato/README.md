@@ -1,4 +1,4 @@
-# File Title: Zomato.TB.pbix
+# File Title: Zomato Customer Analysis
 
 This was my Final project for the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned throughout the TripleTen Program. The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
 
