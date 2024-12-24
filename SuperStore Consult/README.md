@@ -31,7 +31,8 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreC
 
 #### Process:
 I first joined the sheets.
-Then I determined profit and loss centers.
+Then, I determined profit and loss centers.
+After that, I analyzed the worth of advertising during the company triage.
 Lastly, I examined the contribution returns had on profits.
 
 #### Data
@@ -47,13 +48,13 @@ The data was one Excel spreadsheet file provided by TripleTen:
 - The advertising department needs recommendations.
 
 #### Findings:
-1. Profit Centers are Office Supplies and Technology in the West Region while loss centers are Office Supplies and Furniture in the Central Region based on profits.
-2. Subcategories profit centers are Copiers, Phones, and Accessories while loss centers are Tables, Bookcases, and Supplies based on profits.
+1. Subcategories profit centers are Copiers, Phones, and Accessories while loss centers are Tables, Bookcases, and Supplies based on profits.
+2. Profit Centers are Office Supplies and Technology in the West Region while loss centers are Office Supplies and Furniture in the Central Region based on profits.
 3. Several products are causing negative profits, some as high as $20k in losses.
 4. Advertising campaigns should be targeted towards Indiana in October, Vermont in November, and Washington in March.
 5. Returns are a serious problem with many products having high return rates, as high as 100%.
 6. There are several customers with high return rates, as high as 100%.
-7. When considering average profits vs return rate, there are a few individual products that are not worth selling.
+7. When considering average profits vs return rate, there are a few individual products that are not worth selling and many products left to consider continuing or not.
 
 #### Recommendations:
 1. Continue to optimize sales and marketing efforts in profit centers to maintain profitability. Invest in marketing and product development to further capitalize on their success.
@@ -62,6 +63,3 @@ The data was one Excel spreadsheet file provided by TripleTen:
 4. Target advertising campaigns while allocating advertising budgets of 1/5 the state's monthly profits during their most profitable seasons to maximize returns. Consider regional preferences and market trends when designing advertising campaigns.
 5. Investigate high return rates as this is a significant contributor to negative profits.
 6. Analyze customer behavior to identify repeat offenders and take appropriate measures to address their concerns and implement customer loyalty programs.
-
-#### Notes left for Reviewer:
-	I hid some sheets that I used for my Dashboard titled “Advertising” as I did not want the client to look at them individually. This one dashboard answers the only question in part 2, as it has multiple answers and I felt this was the best way to visualize that.
