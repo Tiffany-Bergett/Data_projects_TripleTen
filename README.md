@@ -3,8 +3,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Fresh Beats](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Fresh%20Beats)
-May2024 | **Status Report** to present **business recommendations** via **Word Report** based on a Spreadsheet Analysis done by senior team members.  |
+| 1 | [Fresh Beats](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Fresh%20Beats) May2024 | **Status Report** to present **business recommendations** via **Word Report** based on a Spreadsheet Analysis done by senior team members.  |
 | 2 | [Manhattan Vacation Rental Market](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project) Aug2024 | **Market Analysis** to consult an anonymous short-term rental company on what types of properties they should be targeting based on Airbnb listings and to present the findings via **Spreadsheets**. |
 | 3 | [Zuber](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zuber) Oct2023| **Demand Analysis** Consult for the rideshare company Zuber to understand passenger preferences and the impact of external factors on rides via **SQL database**. |
 | 4 | [E-commerce Company](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company) Nov2023| **E-Commerce Analysis** to analyze raw transaction logs for an anonymous E-commerce company and present business analytical findings via **Spreadsheets**. |
