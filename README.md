@@ -1,5 +1,5 @@
 # Data_projects_TripleTen
-Portfolio of completed projects I worked on while attending the Business Intelligence Analysis TripleTen Bootcamp.
+Portfolio of completed projects I worked on while attending and tutoring for the Business Intelligence Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
