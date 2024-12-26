@@ -7,6 +7,11 @@ This was the fifth project that I worked on in the TripleTen Business Intelligen
 Loom Video Overview can be found <a href='https://www.loom.com/share/74d93fb0067c4649b51ceb65fc0f221c?sid=57e2a8a3-db62-4f12-af46-50030f1b1dd2' target=_blank><u>here</u>.</a>
 Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_12_03_Project5_TB/TotalSalesvsReturns?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
+---------------
+Video <a href='https://www.loom.com/share/74d93fb0067c4649b51ceb65fc0f221c?sid=57e2a8a3-db62-4f12-af46-50030f1b1dd2'><u>here</u>.</a>
+Project <a href='https://public.tableau.com/views/2023_12_03_Project5_TB/TotalSalesvsReturns?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>.
+
+
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
@@ -18,12 +23,22 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_12_03_
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, including files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | Describes the process, including tools or tech used. |
+| Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
-| Recommendations | Recommendations for triage and long-term strategies. |
+| Recommendations | Recommended direction for the stakeholders based on final analysis. |
+
+#### Description:
+- 7 Tableau Visualizations, 1 Dashboard, and a 10-page Story Presentation
+- Includes data analysis, charts, dashboard, and Tableau story
+  
+#### Process:
+I first joined the sheets.
+Then I analyzed data using visualizations to determine what is causing returns.
+I built a dashboard for monitoring returns.
+Lastly, I created a Tableau story to present my findings.
 
 #### Data
 The data was one Excel spreadsheet file provided by TripleTen:
@@ -31,20 +46,10 @@ The data was one Excel spreadsheet file provided by TripleTen:
     - `'orders'`: details all fields for each ordered item
     - `'returns'`: details all fields for each returned item
 
-#### Description:
-- 7 Tableau Visualizations, 1 Dashboard, and a 10-page Story Presentation
-- Includes data analysis, charts, dashboard, and Tableau story
-
 #### Assumptions:
 - Profits from sales are totaling in the negative.	
 - There is one or more causes for negative profits directly related to orders and returns.
 - The operations department will need to make changes.
-
-#### Process:
-I first joined the sheets.
-Then I analyzed data using visualizations to determine what is causing returns.
-I built a dashboard for monitoring returns.
-Lastly, I created a Tableau story to present my findings.
 
 #### Findings:
 - There are several customers with unusually high return rates; Several customers have a return rate of 100%.
