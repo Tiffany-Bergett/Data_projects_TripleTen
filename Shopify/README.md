@@ -5,7 +5,7 @@ This was the 6th project that I worked on in the TripleTen Business Intelligence
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/ShopifyPBI.png" alt="First Dashboard">](https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10)
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
-Raw Data can be found <a href=’https://docs.google.com/spreadsheets/d/1H-Kw1Li9bvq7rvCDOqgdjawhHeRl8SlU/edit?usp=drive_link&ouid=101031187502320177888&rtpof=true&sd=true’><u>here</u>.</a>
+Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1H-Kw1Li9bvq7rvCDOqgdjawhHeRl8SlU/edit?usp=drive_link&ouid=101031187502320177888&rtpof=true&sd=true'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
