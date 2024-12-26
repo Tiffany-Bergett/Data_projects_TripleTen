@@ -2,10 +2,10 @@
 
 This was the fifth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Dashboards and Story Telling. The purpose was to prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/SuperStoreReturns.png" alt="Dashboard Sheet">](https://public.tableau.com/views/2023_12_03_Project5_TB/TotalSalesvsReturns?:language=en-US&:display_count=n&:origin=viz_share_link)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/SuperStoreReturns.png" alt="Dashboard Sheet">](https://public.tableau.com/views/SuperStoreReturns_17275522394170/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/74d93fb0067c4649b51ceb65fc0f221c?sid=57e2a8a3-db62-4f12-af46-50030f1b1dd2' target=_blank><u>here</u>.</a>
-Tableau Public Share Link: <a href='https://public.tableau.com/views/2023_12_03_Project5_TB/TotalSalesvsReturns?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
+Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreReturns_17275522394170/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
