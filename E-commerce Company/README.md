@@ -2,7 +2,7 @@
 
 This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project3Pic.png" alt="First Sheet of Project**">](https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=42667402-82d2-4f31-82a0-baf41ac16ce7)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/E-Commerce.png" alt="First Sheet of Project**">](https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=42667402-82d2-4f31-82a0-baf41ac16ce7)
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=0999d9f0-df9f-4a30-9665-ffb61487a7da' target=_blank><u>HERE</u>.</a>
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing' target=_blank><u>here</u>.</a>
