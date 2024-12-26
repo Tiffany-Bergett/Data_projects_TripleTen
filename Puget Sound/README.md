@@ -13,7 +13,6 @@ Communication & Teamwork (conveying insights and collaborating effectively)
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Puget%20Sound.png">](DESTINATION URL HERE)
 
 YouTube LIVE recording of the entire competition with host Q&A can be found <a href='https://www.youtube.com/live/DWhX2HIf83Q' target=_blank><u>here</u>.</a>
-The video overview can be found <a href='INSERT VIDEO URL HERE' target=_blank><u>here</u>.</a>.
 The Tableau Public page can be found <a href='https://public.tableau.com/views/PugetSound-WaterQuality/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>.
 
 ### Table of Contents for Repository Artifacts
