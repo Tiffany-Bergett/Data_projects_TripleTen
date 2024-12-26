@@ -2,7 +2,7 @@
 
 This was my Externship project that I worked on after graduating from TripleTen Business Intelligence Analytics Program. It was a team project designed to help a real-world company, CrewTracker Software, modernize its reporting system by migrating over 170 Crystal Reports to interactive Power BI dashboards, improving data visualization and user experience for CrewTracker's clients.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project8Pic.png" alt="Interactive Merged Report Using Dummy Server">](https://drive.google.com/file/d/127-o2r_JCsCJwlNCtmzJsxAp8Ti1jIi3/view?usp=drive_link)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/CrewTracker.png" alt="Interactive Merged Report Using Dummy Server">](https://drive.google.com/file/d/127-o2r_JCsCJwlNCtmzJsxAp8Ti1jIi3/view?usp=drive_link)
 
 Video Overview can be found <a href='https://drive.google.com/file/d/127-o2r_JCsCJwlNCtmzJsxAp8Ti1jIi3/view?usp=drive_link' target=_blank><u>here</u>.</a>
 
