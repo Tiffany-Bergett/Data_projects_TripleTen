@@ -5,22 +5,31 @@ This was the 6th project that I worked on in the TripleTen Business Intelligence
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/ShopifyPBI.png" alt="First Dashboard">](https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10)
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
-Google Doc Summary can be found <a href='https://docs.google.com/document/d/19Ca3s7FtYj18LLDkz3yglqdbG9BaXAYQRjKJYck6VkM/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Shopify Summary.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Shopify%20Summary.pdf) | A PDF file with Data Model, DAX Calculated Fields, and Dashboards. |
 
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | Describes the process, including tools or tech used. |
+| Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
+
+#### Description:
+- 3 page Power BI Dashboard
+- Includes data analysis, KPI cards and Charts
+
+#### Process:
+I first assessed the app store landscape using KPI cards and charts.
+Then I cataloged review data with cards and charts.
+Lastly, I analyzed app developers across review types.
 
 #### Data
 The Excel file provided by TripleTenwas was public data scraped from the Shopify App Store.
@@ -30,19 +39,10 @@ The Excel file provided by TripleTenwas was public data scraped from the Shopify
     - `'categories'`: Categories of the apps. Each app has multiple categories
     - `'reviews'`: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present.
 
-#### Description:
-- 3 page Power BI Dashboard
-- Includes data analysis, KPI cards and Charts
-
 #### Assumptions:
 - The scraped data from Shopify websites is accurate and representative of the actual app landscape.
 - The data in the shopify.xlsx file is complete and consistent, with minimal missing values or inconsistencies.
 - The provided column names and data types in the tables accurately reflect their content.
-
-#### Process:
-I first assessed the app store landscape using KPI cards and charts.
-Then I cataloged review data with cards and charts.
-Lastly, I analyzed app developers across review types.
 
 #### Findings:
 1. New Apps are more likely to be rated early in their deployment.
