@@ -2,7 +2,7 @@
 
 This was the second project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in SQL. The purpose was to find patterns in the available information from competitors to understand passenger preferences and the impact of external factors on rides.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project2Pic.png" alt="First SQL Task Page">](https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Zuber%20Database.png" alt="First SQL Task Page">](https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c)
 
 Loom Video Screencast and overview can be found <a href='https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c' target=_blank><u>here</u>.</a>
 Word Document with Goals, Code, and Results can be found <a href='https://docs.google.com/document/d/1t9FqPRD-FGLUZX0qEDk4kp3brIdVtAm7cCa1mUBBytg/edit?usp=sharing' target=_blank><u>here</u>.</a>
