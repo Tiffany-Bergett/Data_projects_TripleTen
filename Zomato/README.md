@@ -19,11 +19,24 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | Describes the process, including tools or tech used. |
+| Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
+| Recommendations | Recommended direction for the stakeholders based on final analysis. |
+| Notes | List any special requests from the reviews or stakeholders unique to this project. |
+
+#### Description:
+- This was a Customer Segmentation Analysis.
+- 2 pages in Power BI.
+- Includes KPI cards, Pie charts, bar charts, and RFM analysis.
+
+#### Process:
+I first learned of the problem presented in its entirety and its requirements for approval.
+Then, I chose software and created my first submission, the "Decomposition Plan".
+After, I analyzed the data and created visualizations and dashboards for a second submission.
+Lastly, I presented my findings in a report as my 3rd and final submission piece.
 
 #### Data
 TripleTen provided an archived file of 5 separate Excel files from the mock company Zomato. I used 2 for this project.
@@ -35,23 +48,12 @@ TripleTen provided an archived file of 5 separate Excel files from the mock comp
 - `'Segmentations'`: Created table for analysis and to maintain the integrity of original files. Housing all segments and RFM scores needed for inclusion.
 - `'RFM Table'`: Created table for analysis and to maintain the integrity of original files. Housing all RFM calculations.
 
-#### Description:
-- This was a Customer Segmentation Analysis.
-- 2 pages in Power BI.
-- Includes KPI cards, Pie charts, bar charts, and RFM analysis.
-
 #### Assumptions:
 - The provided test datasets are accurate, complete, and consistent.
 - Missing values or inconsistencies are minimal and will not significantly impact the analysis.
 - The column descriptions accurately reflect the content of each table.
 - The provided tables (orders and users) contain all the necessary information for the chosen analysis.
 - Zomato's business context and industry trends are considered while interpreting the data.
-
-#### Process:
-I first learned of the problem presented in its entirety and its requirements for approval.
-Then, I chose software and created my first submission, the "Decomposition Plan".
-After, I analyzed the data and created visualizations and dashboards for a second submission.
-Lastly, I presented my findings in a report as my 3rd and final submission piece.
 
 #### Findings:
 1. Customers mostly consist of 23-year-old unmarried men.
