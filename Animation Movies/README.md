@@ -1,4 +1,5 @@
-# File Title: Animated_Movies.twbx
+# File Title: Animation Movies
+
 
 This was a Code Jam **Competition** project that I worked on after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills. The purpose was to create a visually compelling story from a provided dataset **in 4 days with Tableau and collaboration**.
 
