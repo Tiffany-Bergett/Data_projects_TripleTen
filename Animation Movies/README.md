@@ -37,8 +37,8 @@ Original Team Chart-cuteri's recorded presentation can be found <a href='https:/
 | Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- 1 Tableau Story made from 6 Dashboards and 14 visuals
-- Includes parameters, calculations, sets, and a final presentation of the Tableau Story.
+- 1 Tableau Story made from 6 Dashboards and 12 visuals
+- Includes Sets, Visualizations, Filters, Dashboards, Story, and a final presentation of the Tableau Story.
 
 #### Process:
 **First**, We held a Google Meet to organize our team details and technical details on how to best seamlessly share the work between time zones and workstations.<br>
@@ -69,7 +69,7 @@ The data was one .csv file provided by TripleTen
 #### Assumptions:
 - The main genre was the 1st one listed, analysis was based on the main genre.
 - Missing values or inconsistencies in the data are minimal and can be ignored.
-- The provided data was clean when provided to us.
+- The provided data was mostly clean when provided to us.
 
 #### Findings:
 - The United States produces the most animated movies, but production is happening far and wide across the globe.
@@ -81,8 +81,8 @@ The data was one .csv file provided by TripleTen
 - Frozen 2 made the highest revenue at 1.45 Billion.
 - There is a direct correlation between budget size and revenue.
 - Sequels bring more money in than their original titles.
-- ONF | NFB has the most produced films yet does not reach near the top in revenue.
-- Sleeping Beauty had the highest average vote scores.
+- Disney was the most popular production company.
+- Spider-Man: Across the Spider-Verse had the highest average vote scores.
 - Elemental had the highest Popularity scores
 
 #### Results:
