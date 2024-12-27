@@ -10,7 +10,7 @@ Data Visualization (creating clear and informative visuals)<be>
 Tableau Calculations, Parameters, and Sets<br>
 Communication & Teamwork (conveying insights and collaborating effectively)
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Puget%20Sound.png">](DESTINATION URL HERE)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Puget%20Sound.png">](https://public.tableau.com/views/PugetSound-WaterQuality/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 YouTube LIVE recording of the entire competition with host Q&A can be found <a href='https://www.youtube.com/live/DWhX2HIf83Q' target=_blank><u>here</u>.</a>
 The Tableau Public page can be found <a href='https://public.tableau.com/views/PugetSound-WaterQuality/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>.
@@ -19,9 +19,10 @@ The Tableau Public page can be found <a href='https://public.tableau.com/views/P
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Join & Initial Filters.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Puget%20Sound/Join%20%26%20Initial%20Filters.png) | Table Joining caused row limit constraints; list of initial filters used to reduce file size. |
-| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Puget%20Sound/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 4 | [WLRD_Sites_20240906.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Puget%20Sound/WLRD_Sites_20240906.csv) | Additional spreadsheet file in CSV format found from the county website to provide GPS coordinates of original data's areas. |
+| 2 | [Puget Sound - Water Quality.zip](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Puget%20Sound/Puget%20Sound%20-%20Water%20Quality.zip) | A downloadable Zip with a PDF copy of the entire Tableau workbook. |
+| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Puget%20Sound/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 5 | [WLRD_Sites_20240906.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Puget%20Sound/WLRD_Sites_20240906.csv) | Additional spreadsheet file in CSV format found from the county website to provide GPS coordinates of original data's areas. |
 
 ### Table of Contents for README
 | Section Title | Description |
