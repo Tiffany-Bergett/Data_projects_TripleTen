@@ -11,8 +11,8 @@ Communication & Teamwork (conveying insights and collaborating effectively)
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/AnimationMovies.png" alt="Tableau Story Welcome Page">](https://public.tableau.com/views/AnimationMovies_17352673342840/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Reworked and Updated Tableau Public <a href='https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a><br>
-YouTube LIVE recording of entire competition with host Q&A can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=fNs4AeeffGvZo9k8' target=_blank><u>here</u>.</a><br>
-Team Chart-cuteri's recorded presentation can be found <a href='https://drive.google.com/file/d/1hCgHvyS8QK4xuK0Vba_DeCW6dX-BBXlA/view?usp=drive_link' target=_blank><u>here</u>.</a> 
+Original YouTube LIVE recording of entire competition with host Q&A can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=fNs4AeeffGvZo9k8' target=_blank><u>here</u>.</a><br>
+Original Team Chart-cuteri's recorded presentation can be found <a href='https://drive.google.com/file/d/1hCgHvyS8QK4xuK0Vba_DeCW6dX-BBXlA/view?usp=drive_link' target=_blank><u>here</u>.</a> 
 
 
 ### Table of Contents for Repository Artifacts
