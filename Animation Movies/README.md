@@ -41,10 +41,10 @@ Original Team Chart-cuteri's recorded presentation can be found <a href='https:/
 - Includes Sets, Visualizations, Filters, Dashboards, Story, and a final presentation of the Tableau Story.
 
 #### Process:
-**First**, We held a Google Meet to organize our team details and technical details on how to best seamlessly share the work between time zones and workstations.<br>
-**Then**, team member Michelle explored, filtered, and cleaned the data using Jupyter Notebook and Python.<br>
-**Next**, we took turns passing the Tableau Workbook between members via Discord Chat based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.<br>
-**Simultaneously**, preparing the presentation requirements, outline, and details in the same collaborative method via Discord and .txt file.<br>
+**First**, We held a *Google Meet* to organize our team details and technical details on how to best seamlessly share the work between time zones and workstations.<br>
+**Then**, team member Michelle explored, filtered, and cleaned the data using *Jupyter Notebook* and *Python*.<br>
+**Next**, we took turns passing the Tableau Workbook between members via *Discord Chat* based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.<br>
+**Simultaneously**, preparing the presentation requirements, outline, and details in the same collaborative method via *Discor*d and .txt file.<br>
 **Lastly**, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.<br>
 
 #### Data
