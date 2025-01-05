@@ -38,7 +38,7 @@ Calculated retention rates.
 Lastly, I finalized the formatting and documentation for the client's readability.
 
 #### Data
-The data was one Google spreadsheet file provided by TripleTen
+The data was one Google spreadsheet file provided by TripleTen. Raw Data Google Spreadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1qWRY5svKGkJRyYNv7K4XvEGm9FpcoJhH5G0p4Qbq0V0/edit?usp=sharing' target=_blank><u>here</u>.</a>
 - `'Business Analyst Project.csv'`: raw transaction logs
     - `'raw_user_activity'`: Each row represents an activity, or event, by a user on the company’s website
         - `'user_id'`: unique customer IDs
