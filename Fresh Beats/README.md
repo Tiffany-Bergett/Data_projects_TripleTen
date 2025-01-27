@@ -11,9 +11,9 @@ The platform faces challenges in optimizing these areas:
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Fresh%20Beats.png">](https://www.loom.com/share/73835eaac47943a6bd7b28c6c0944739?sid=56ecfd0a-af47-434f-9f92-2353c1449828)
 
-Loom Video Overview can be found [HERE](https://www.loom.com/share/73835eaac47943a6bd7b28c6c0944739?sid=29a6e8bb-d446-4e5d-94da-1be869704de1).
-Google Doc Report can be found [HERE](https://docs.google.com/document/d/1wIhAKIBajnn_FMr4jLVH3TH_5oYFpeG6wXxMQASSbUs/edit?usp=sharing).
-Google Sheet Analysis report was based on can be found [HERE](https://docs.google.com/spreadsheets/d/1-h42tOoFZY4MLHSjpWcPKgKzUoC4u0Z8R6Fc8kJoG2o/edit?usp=sharing).
+Loom Video Overview can be found [HERE](https://www.loom.com/share/73835eaac47943a6bd7b28c6c0944739?sid=29a6e8bb-d446-4e5d-94da-1be869704de1).  
+Google Doc Report can be found [HERE](https://docs.google.com/document/d/1wIhAKIBajnn_FMr4jLVH3TH_5oYFpeG6wXxMQASSbUs/edit?usp=sharing).  
+Google Sheet Analysis report was based on can be found [HERE](https://docs.google.com/spreadsheets/d/1-h42tOoFZY4MLHSjpWcPKgKzUoC4u0Z8R6Fc8kJoG2o/edit?usp=sharing).  
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
@@ -26,16 +26,17 @@ Google Sheet Analysis report was based on can be found [HERE](https://docs.googl
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| DATA | Describes the source of data, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings | Insights learned from the data analysis. |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [DATA](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#data) | Describes the source of data, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#findings) | Insights learned from the data analysis. |
+| [Recommendations](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#recommendations) | Insights learned from the data analysis. |
 
 #### Description:
 - 3 page Google Doc
 - Includes key findings, recommendations, and Charts.
   
-#### Data
+#### Data:
 The data was one Google spreadsheet file provided by TripleTen:
 - `'sprint 0  BIA Welcome Sprint Project. Fresh Beats User Data'`: each row corresponds to one cross-dimensional category.
     - `'year'`: year data was obtained for each dimension
