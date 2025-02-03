@@ -28,12 +28,12 @@ Original Team Chart-cuteri's recorded presentation can be found <a href='https:/
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#description) | Describes the final product's purpose, software, format, and included visuals. |
-| Process(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#process) | Describes the process, including tools or tech used. |
-| Data(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#data) | Describes the data source, including files, tables, and fields. |
-| Assumptions(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#findings) | Insights learned from the data analysis. |
-| Results(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#results) | What was gained from the competition |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#data) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#findings) | Insights learned from the data analysis. |
+| [Results](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#results) | What was gained from the competition |
 
 #### Description:
 - 1 Tableau Story made from 6 Dashboards and 12 visuals
@@ -43,7 +43,7 @@ Original Team Chart-cuteri's recorded presentation can be found <a href='https:/
 **First**, We held a *Google Meet* to organize our team details and technical details on how to best seamlessly share the work between time zones and workstations.<br>
 **Then**, team member Michelle explored, filtered, and cleaned the data using *Jupyter Notebook* and *Python*.<br>
 **Next**, we took turns passing the Tableau Workbook between members via *Discord Chat* based on availability. Keeping in constant connection and collaboration about our live edits through the same chat.<br>
-**Simultaneously**, preparing the presentation requirements, outline, and details in the same collaborative method via *Discor*d and .txt file.<br>
+**Simultaneously**, prepare the presentation requirements, outline, and details using the same collaborative method via *Discor*d and .txt file.<br>
 **Lastly**, We recorded our assigned portions of the presentation and used video manipulation to make it one seamless video presentation.<br>
 
 #### Data
