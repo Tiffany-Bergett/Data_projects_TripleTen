@@ -20,11 +20,11 @@ Projects Google Speadsheet can be found <a href='https://docs.google.com/spreads
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | Describes the process, including tools or tech used. |
-| DATA | Describes the source of data, included files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings & Recommendations | Insights and suggested considerations learned from the data analysis. |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project#data) | Describes the source of data, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings & Recommendations](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project#findings-and-recommendations) | Insights and suggested considerations learned from the data analysis. |
 
 #### Description:
 - 17 page spreadsheet
