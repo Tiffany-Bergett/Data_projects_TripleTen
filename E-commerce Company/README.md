@@ -19,12 +19,12 @@ Raw Data Google Speadsheet can be found <a href='https://docs.google.com/spreads
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#description) | Describes the final product's purpose, software, format, and included visuals. |
-| Process(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#data) | A general outline of how this project formed from start to finish. |
-| DATA | Describes the source of data, included files, tables, and fields. |
-| Assumptions(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#findings) | Insights learned from the data analysis. |
-| Recommendations(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#process) | A general outline of how this project formed from start to finish. |
+| [DATA](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#data) | Describes the source of data, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#findings) | Insights learned from the data analysis. |
+| [Recommendations](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
 
 #### Description:
 - 8 page spreadsheet
