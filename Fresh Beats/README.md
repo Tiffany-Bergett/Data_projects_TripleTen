@@ -27,7 +27,7 @@ Google Sheet Analysis report was based on can be found [HERE](https://docs.googl
 | Section Title | Description |
 | ----------- |----------- |
 | [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#description) | Describes the final product's purpose, software, format, and included visuals. |
-| [DATA](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#data) | Describes the source of data, including files, tables, and fields. |
+| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#data) | Describes the source of data, including files, tables, and fields. |
 | [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#findings) | Insights learned from the data analysis. |
 | [Recommendations](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/edit/main/Fresh%20Beats/README.md#recommendations) | Insights learned from the data analysis. |
