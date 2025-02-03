@@ -16,12 +16,12 @@ Video Overview can be found <a href='https://drive.google.com/file/d/127-o2r_JCs
 
 | Section Title | Description |
 | ----------- |----------- |
-| Description(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#description) | Describes the final product's purpose, software, format, and included visuals. |
-| Process(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#process) | Describes the process, including tools or tech used. |
-| Data(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#data) | Describes the data source, including files, tables, and fields. |
-| Assumptions(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Results(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#results) | Outcome of the project for the client. |
-| Personal Stat(https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#personal-stats)s | List of personal contributions to the team project. |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#data) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Results](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#results) | Outcome of the project for the client. |
+| [Personal Stats](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/CrewTracker#personal-stats) | List of personal contributions to the team project. |
 
 ### Description:
 - 172 Crystal Reports requested for conversion.
