@@ -23,7 +23,7 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreR
 | [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#data) | Describes the data source, including files, tables, and fields. |
 | [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#findings) | Insights learned from the data analysis. |
-| [Recommendations]() | Recommended direction for the stakeholders based on the final analysis. |
+| [Recommendations](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/README.md#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
 
 #### Description:
 - 7 Tableau Visualizations, 1 Dashboard, and a 10-page Story Presentation
