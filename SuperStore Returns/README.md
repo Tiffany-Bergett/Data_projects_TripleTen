@@ -18,12 +18,12 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreR
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | Describes the process, including tools or tech used. |
-| Data | Describes the data source, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings | Insights learned from the data analysis. |
-| Recommendations | Recommended direction for the stakeholders based on final analysis. |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#data) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#findings) | Insights learned from the data analysis. |
+| [Recommendations]() | Recommended direction for the stakeholders based on the final analysis. |
 
 #### Description:
 - 7 Tableau Visualizations, 1 Dashboard, and a 10-page Story Presentation
@@ -52,7 +52,7 @@ The data was one Excel spreadsheet file provided by TripleTen:
 - The location where the order was delivered; Utah being a particular problem.
 - Orders are returned significantly more in August with September close behind corresponding with increased purchases.
 
-####Recommendations:
+#### Recommendations:
 1) Employee training in the technology department to better assist customers in choosing the right product.
 2) Reach out to customers with a 100% return rate to determine the reasons behind their decision. Implement any changes needed in our website or shipping partners that are causing these returns.
 3) As triage, immediately stop selling the problem products.
