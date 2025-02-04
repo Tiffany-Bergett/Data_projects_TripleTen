@@ -18,11 +18,11 @@ Google Doc with Goals, Code, and Results can be found <a href='https://docs.goog
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | A general outline of how this project formed from start to finish. |
-| DATA | Describes the source of data, included files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings | Insights learned from the data analysis. |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zuber#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zuber#process) | A general outline of how this project formed from start to finish. |
+| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zuber#data) | Describes the source of data, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zuber#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zuber#findings) | Insights learned from the data analysis. |
 
 #### Description:
 - 6 Step SQL query.
