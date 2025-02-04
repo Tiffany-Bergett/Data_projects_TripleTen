@@ -19,13 +19,11 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | Describes the process, including tools or tech used. |
-| Data | Describes the data source, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings | Insights learned from the data analysis. |
-| Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
+| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato#data) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato#findings) | Insights learned from the data analysis. |
 
 #### Description:
 - This was a Customer Segmentation Analysis.
