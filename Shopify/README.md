@@ -1,11 +1,13 @@
 # File Title: ShopifyPBI
 
-This was the 6th project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Power BI. The purpose was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figure out what key factors play into the success of a Shopify app.
+This was the 6th project that I worked on in the TripleTen Business Intelligence Analytics Program.  
+It was an independent project designed to showcase what I have learned about Power BI.  
+The purpose was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figure out what key factors play into the success of a Shopify app.  
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/ShopifyPBI.png" alt="First Dashboard">](https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/ShopifyPBI.png" alt="First Dashboard">](https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10)  
 
-Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
-Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1H-Kw1Li9bvq7rvCDOqgdjawhHeRl8SlU/edit?usp=drive_link&ouid=101031187502320177888&rtpof=true&sd=true'><u>here</u>.</a>
+Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>  
+Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1H-Kw1Li9bvq7rvCDOqgdjawhHeRl8SlU/edit?usp=drive_link&ouid=101031187502320177888&rtpof=true&sd=true'><u>here</u>.</a>  
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
@@ -28,9 +30,9 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1H-Kw1Li9b
 - Includes data analysis, KPI cards and Charts
 
 #### Process:
-I first assessed the app store landscape using KPI cards and charts.
-Then I cataloged review data with cards and charts.
-Lastly, I analyzed app developers across review types.
+I first assessed the app store landscape using KPI cards and charts.  
+Then I cataloged review data with cards and charts.  
+Lastly, I analyzed app developers across review types.  
 
 #### Data
 The Excel file provided by TripleTenwas was public data scraped from the Shopify App Store.
