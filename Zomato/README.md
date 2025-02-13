@@ -31,10 +31,10 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973
 - Includes KPI cards, Pie charts, bar charts, and RFM analysis.
 
 #### Process:
-I first learned of the problem presented in its entirety and its requirements for approval.
-Then, I chose software and created my first submission, the "Decomposition Plan".
-After, I analyzed the data and created visualizations and dashboards for a second submission.
-Lastly, I presented my findings in a report as my 3rd and final submission piece.
+I first learned of the problem presented in its entirety and its requirements for approval.  
+Then, I chose software and created my first submission, the "Decomposition Plan".  
+After, I analyzed the data and created visualizations and dashboards for a second submission.  
+Lastly, I presented my findings in a report as my 3rd and final submission piece.  
 
 #### Data
 TripleTen provided an archived file of 5 separate Excel files from the mock company Zomato. I used 2 for this project.
