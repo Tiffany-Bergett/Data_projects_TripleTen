@@ -1,11 +1,13 @@
 # File Title: SuperStore Consult
 
-This was the fourth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Tableau Visualization. The purpose was to consultant the company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
+This was the fourth project that I worked on in the TripleTen Business Intelligence Analytics Program.  
+It was an independent project designed to showcase what I have learned about Tableau Visualization.  
+The purpose was to consultant the company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.  
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/SuperStoreConsult.png" alt="First Visulization Sheet">](https://www.loom.com/share/ce4f7d6c63a4489d9f6d8f430ba3f3d9?sid=55211fb8-68b2-4489-ab4b-e9010cad830b)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/SuperStoreConsult.png" alt="First Visulization Sheet">](https://www.loom.com/share/ce4f7d6c63a4489d9f6d8f430ba3f3d9?sid=55211fb8-68b2-4489-ab4b-e9010cad830b)  
 
-Loom Video Overview can be found <a href='https://www.loom.com/share/ce4f7d6c63a4489d9f6d8f430ba3f3d9?sid=55211fb8-68b2-4489-ab4b-e9010cad830b' target=_blank><u>here</u>.</a>
-Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreConsult/ProfitLossbySubcategory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
+Loom Video Overview can be found <a href='https://www.loom.com/share/ce4f7d6c63a4489d9f6d8f430ba3f3d9?sid=55211fb8-68b2-4489-ab4b-e9010cad830b' target=_blank><u>here</u>.</a>  
+Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreConsult/ProfitLossbySubcategory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>   
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
@@ -30,10 +32,10 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreC
 - Includes data analysis, charts, and dashboard.
 
 #### Process:
-I first joined the sheets.
-Then, I determined profit and loss centers.
-After that, I analyzed the worth of advertising during the company triage.
-Lastly, I examined the contribution returns had on profits.
+I first joined the sheets.  
+Then, I determined profit and loss centers.  
+After that, I analyzed the worth of advertising during the company triage.  
+Lastly, I examined the contribution returns had on profits.  
 
 #### Data
 The data was one Excel spreadsheet file provided by TripleTen:
