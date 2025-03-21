@@ -4,7 +4,7 @@ This was my Final project for the TripleTen Business Intelligence Analytics Prog
 It was an independent project designed to showcase what I have learned throughout the TripleTen Program.  
 The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.  
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/ZomatoProject.png" alt="First Dashboard">](https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77)
+[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/ZomatoMainDash.png" alt="First Dashboard">](https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77)
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973846829433f6dcf9a91a5b?sid=add8ee32-42ac-48d2-9af6-049f9e8dac77' target=_blank><u>here</u>. </a>
 
@@ -13,7 +13,7 @@ Loom Video Overview can be found <a href='https://www.loom.com/share/d29a87fb973
 | :-----------: | ----------- |----------- |
 | 1 | [Raw Data for CSA](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato/Raw%20Data%20for%20CSA) | Folder containing 2 .xlxs files, one for each table used in the analysis. |
 | 2 | [Final Project Report.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Final%20Project%20Report.pdf) | A .pdf file with the written report for this project. |
-| 2 | [Final.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Final.pdf) | A .pdf file with the written report for this project. |
+| 2 | [Final Project.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Final%20Project.pdf) | A .pdf file with the written report for this project. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 5 | [Zomato.TB.pbix](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Zomato.TB.pbix) | Power BI save file for easy access to specific DAX, calculations, and measures. |
